@@ -3,6 +3,7 @@ __pycache__/
 *.py[cod]
 
 # Crawler output
+/data/*
 /domains/*
 !/domains/.gitkeep
 

@@ -11,8 +11,8 @@
 - Generating a folder structure from ICANN’s official `tlds-alpha-by-domain.txt`.
 - Launching URL crawls defined in `config/init-url.txt`.
 - **Respecting each website's `robots.txt` rules and skipping URLs that are disallowed for crawling.**
-- Recursively discovering and saving reachable subpages into `domains/` as `.md` files.
-- Maintaining a central CSV file in the `data/` directory for status tracking and concurrency control.
+- Recursively discovering and saving reachable subpages from the same domain (any path) and external domains into `domains/` as `.md` files.
+- Maintaining per-domain CSV files in the `data/` directory for status tracking and concurrency control.
 
 ### 🔍 Problem Statement
 
@@ -88,16 +88,24 @@ RETRY_LIMIT=3
    - Download `tlds-alpha-by-domain.txt` into `config/`.
    - Add seed URLs to `config/init-url.txt`.
 
-3. Generate initial folder structure:
+3. Generate initial folder structure (creates `domains/` with TLD subfolders and `data/`):
 
    ```bash
    python scripts/init_folders.py
    ```
 
+   This script initializes the `domains/` directory with subfolders for each TLD and also creates the `data/` directory.
+
 4. Start the crawler (locally):
 
    ```bash
    python scripts/crawl.py
+   ```
+
+5. Resetting the crawl (optional):
+   To remove all crawled data (`data/` and `domains/` folders) and start fresh:
+   ```bash
+   python scripts/reset_crawl.py
    ```
 
 ---
@@ -115,7 +123,7 @@ This will:
 - Read `init-url.txt`.
 - Check and respect the CSV file lock in the `data/` directory.
 - **Check and respect each site's `robots.txt` before crawling any URL.**
-- Begin crawling each seed and saving subpages under their respective TLD folders.
+- Begin crawling each seed URL. It will follow links on the same domain (regardless of path) and also add discovered external domains to the crawl queue, saving content under their respective TLD and domain folders.
 
 ### 🛎 GitHub Actions Routine
 
@@ -124,6 +132,7 @@ The project includes `.github/workflows/crawl.yml` which:
 - Runs scheduled jobs using GitHub Actions.
 - Limits concurrent execution to prevent timeout (staggered by repo or subfolder).
 - Updates CSV files in the `data/` directory with crawl status and metadata.
+- Commits and pushes changes from both `domains/` and `data/` directories.
 
 ### 🔁 Workflow States
 
@@ -145,7 +154,11 @@ opendomains/
 │   ├── init-url.txt          # Seed URLs to start crawling
 │   └── tlds-alpha-by-domain.txt # Source of TLDs from ICANN
 │
-├── domains/
+├── data/                     # Stores CSV files for crawl progress and metadata
+│   └── com/
+│       └── example.com.csv
+│
+├── domains/                  # Stores crawled content as markdown
 │   └── com/
 │       └── example.com/
 │           ├── index.md
@@ -153,12 +166,14 @@ opendomains/
 │           └── contact.md
 │
 ├── scripts/
-│   └── init_folders.py       # Bootstrap script for folder creation
+│   ├── crawl.py              # Main crawling script
+│   ├── init_folders.py       # Bootstrap script for folder creation (domains/ and data/)
+│   └── reset_crawl.py        # Script to remove data/ and domains/ folders
 ├── .github/workflows/
 │   └── crawl.yml             # Scheduled GitHub Actions workflow
 └── README.md
 
-# Removed index.json and updated documentation to reflect CSV/data/ approach.
+# Documentation reflects CSV-based progress tracking in data/ and markdown content in domains/.
 ```
 
 ### 🧹 Naming & Formatting

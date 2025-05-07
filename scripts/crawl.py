@@ -147,15 +147,26 @@ def crawl_worker(q, visited, robots_cache, user_agent='OpenDomainsBot'):
         with open(md_path, 'w') as f:
             f.write(f'# {url}\n\n')
             f.write(md(str(soup)))
-        # Find subpages (same domain)
-        subpages = set()
+        # Find subpages (same domain and external domains)
+        subpages_added_to_queue = set()
         for a in soup.find_all('a', href=True):
-            link = urljoin(url, a['href'])
-            if link.startswith(url) and link not in visited:
+            raw_href = a.get('href')
+            if not raw_href or raw_href.startswith('#') or raw_href.lower().startswith('mailto:') or raw_href.lower().startswith('javascript:'):
+                continue
+
+            link = urljoin(url, raw_href)
+            parsed_link = urlparse(link)
+
+            # Ensure it's an HTTP/HTTPS link and has a network location (domain)
+            if parsed_link.scheme not in ['http', 'https'] or not parsed_link.netloc:
+                continue
+
+            if link not in visited:
                 q.put(link)
-                subpages.add(link)
+                subpages_added_to_queue.add(link)
+        
         progress = 100  # For demo, mark as done after one pass
-        update_csv(url, 'finished', len(subpages), progress)
+        update_csv(url, 'finished', len(subpages_added_to_queue), progress)
         q.task_done()
 
 def main():
@@ -177,3 +188,6 @@ def main():
     for t in threads:
         t.join(timeout=1)
     print('Crawling complete.')
+
+if __name__ == '__main__':
+    main()
