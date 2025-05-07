@@ -70,7 +70,7 @@ You can configure settings in a `.env` file:
 
 ```env
 THREADS=5
-TIMEOUT=10
+TIMEOUT=5
 RETRY_LIMIT=3
 ```
 
@@ -121,17 +121,19 @@ python scripts/crawl.py
 This will:
 
 - Read `init-url.txt`.
-- Check and respect the CSV file lock in the `data/` directory.
-- **Check and respect each site's `robots.txt` before crawling any URL.**
-- Begin crawling each seed URL. It will follow links on the same domain (regardless of path) and also add discovered external domains to the crawl queue, saving content under their respective TLD and domain folders.
+- **Check Persistent State:** For each seed URL and subsequently discovered subpage URL, the script checks its status in the corresponding domain's CSV file (in `data/`). If a URL is already marked with a terminal status (`finished`, `blocked_by_robots`, `error`), it will be skipped for the current run, preventing re-processing of already completed or definitively failed URLs.
+- **Respect `robots.txt`:** For URLs not in a terminal state, it checks and respects each site's `robots.txt` before crawling.
+- Begin crawling eligible seed URLs. It will follow links on the same domain (regardless of path) and also add discovered external domains to the crawl queue (after checking their persistent status), saving content under their respective TLD and domain folders.
 
 ### 🛎 GitHub Actions Routine
 
 The project includes `.github/workflows/crawl.yml` which is configured to:
 
 - Run scheduled jobs frequently (e.g., every 6 minutes as per the current `cron: "*/6 * * * *"` setting).
-- Execute the `scripts/crawl.py` for a limited duration in each run (currently 15 minutes via `timeout-minutes: 15`).
-- Within the GitHub Actions environment, the crawler script is run with `THREADS=10` and sub-request `TIMEOUT=5` seconds, overriding any `.env` or script defaults for these specific values.
+- The GitHub Actions step for running the crawler (`Run crawler (respects robots.txt)`) has a hard timeout of 5 minutes (`timeout-minutes: 5`).
+- To allow for a more graceful shutdown, the `scripts/crawl.py` itself is configured (via the `CRAWL_DURATION_SECONDS=270` environment variable set in the workflow) to attempt to stop after 4.5 minutes of execution.
+- Within the GitHub Actions environment, the crawler script is also run with `THREADS=5` and a sub-request `TIMEOUT=5` seconds, overriding any `.env` or script defaults for these specific values.
+- **Stateful Resumption:** The script checks the status of URLs in the `data/` CSV files before processing. If a URL is already marked as `finished`, `blocked_by_robots`, or `error`, it will be skipped in the current run. This allows the crawl to effectively resume by not re-processing completed or failed items.
 - The script logs any newly encountered domains (i.e., domains for which a folder is created in `domains/` for the first time during that run) to `newly_added_domains.log`.
 - The "Commit and push changes" step uses `if: always()`, meaning it will attempt to run and commit any generated data (including `newly_added_domains.log`) even if previous steps (like the crawl itself) are cancelled or encounter errors. This helps ensure data is saved in various termination scenarios.
 - After committing, a "Create Release for New Domains" step runs (also with `if: always()`). If `newly_added_domains.log` contains entries, this step creates a new GitHub Release. The release is tagged with the current timestamp (e.g., `crawl-YYYYMMDD-HHMMSS`), includes a summary of the new domains in its notes, and attaches the `newly_added_domains.log` file as an asset.
