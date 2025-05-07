@@ -127,12 +127,13 @@ This will:
 
 ### 🛎 GitHub Actions Routine
 
-The project includes `.github/workflows/crawl.yml` which:
+The project includes `.github/workflows/crawl.yml` which is configured to:
 
-- Runs scheduled jobs using GitHub Actions.
-- Limits concurrent execution to prevent timeout (staggered by repo or subfolder).
+- Run scheduled jobs frequently (e.g., every 12 minutes).
+- Execute the `scripts/crawl.py` for a limited duration in each run (e.g., 10 minutes) to allow for incremental progress on long crawls.
+- The "Commit and push changes" step uses `if: always()`, meaning it will attempt to run and commit any generated data even if previous steps (like the crawl itself) are cancelled or encounter errors. This helps ensure data is saved in various termination scenarios.
+- This setup allows for more frequent updates to the repository, especially during extensive crawls.
 - Updates CSV files in the `data/` directory with crawl status and metadata.
-- Commits and pushes changes from both `domains/` and `data/` directories.
 
 ### 🔁 Workflow States
 

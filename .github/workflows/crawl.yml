@@ -2,7 +2,7 @@ name: Scheduled Crawl
 
 on:
   schedule:
-    - cron: "0 2 * * *" # Runs daily at 02:00 UTC
+    - cron: "*/6 * * * *" # Runs every 12 minutes
   workflow_dispatch:
 
 jobs:
@@ -23,9 +23,11 @@ jobs:
         run: |
           python scripts/init_folders.py
       - name: Run crawler (respects robots.txt)
+        timeout-minutes: 5 # Allow crawl to run for up to 10 minutes
         run: |
           python scripts/crawl.py
       - name: Commit and push changes
+        if: always() # Attempt to commit even if previous steps fail or are cancelled
         run: |
           git config --global user.name 'github-actions[bot]'
           git config --global user.email 'github-actions[bot]@users.noreply.github.com'
