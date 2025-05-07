@@ -2,7 +2,7 @@ name: Scheduled Crawl
 
 on:
   schedule:
-    - cron: "*/6 * * * *" # Runs every 6 minutes
+    - cron: "*/6 * * * *" # Runs every x minutes
   workflow_dispatch:
 
 jobs:
@@ -23,8 +23,10 @@ jobs:
         run: |
           python scripts/init_folders.py
       - name: Run crawler (respects robots.txt)
-        timeout-minutes: 5 # Allow crawl to run for up to 5 minutes
+        timeout-minutes: 15 # Increased timeout to 15 minutes
         run: |
+          export THREADS=10  # Increase thread count
+          export TIMEOUT=5   # Reduce timeout for subrequests
           python scripts/crawl.py
       - name: Commit and push changes
         if: always() # Attempt to commit even if previous steps fail or are cancelled
