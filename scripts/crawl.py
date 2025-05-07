@@ -26,9 +26,13 @@ RETRY_LIMIT = int(os.getenv('RETRY_LIMIT', 3))
 CONFIG_URLS = os.path.join('config', 'init-url.txt')
 DATA_DIR = 'data'
 DOMAINS_DIR = 'domains'
+NEWLY_ADDED_DOMAINS_LOG = 'newly_added_domains.log' # Log file for new domains
 
 os.makedirs(DATA_DIR, exist_ok=True)
-lock = threading.Lock()
+# Global lock for thread-safe operations like file appends and shared resource access
+# The FileLock in update_csv is for inter-process safety on CSVs, 
+# this threading.Lock is for intra-process safety for things like the new domain log.
+lock = threading.Lock() 
 
 CSV_HEADER = ['url', 'status', 'subpages', 'progress', 'last_updated', 'created_date']
 
@@ -119,18 +123,39 @@ def crawl_worker(q, visited, robots_cache, user_agent='OpenDomainsBot'):
         if url in visited:
             q.task_done()
             continue
+
+        # --- START: Early file/directory creation and status update ---
+        tld, domain_name_from_url = get_tld_domain(url) # Get domain for logging
+        domain_folder_path = get_domain_folder(url)
+
+        is_new_domain_folder = not os.path.exists(domain_folder_path)
+        
+        os.makedirs(domain_folder_path, exist_ok=True) # Creates domains/<tld>/<domain>
+
+        if is_new_domain_folder:
+            with lock: # Thread-safe append to the log file
+                with open(NEWLY_ADDED_DOMAINS_LOG, 'a') as f_log:
+                    f_log.write(f"{domain_name_from_url}\n")
+        
+        # Initial CSV update. This ensures data/<tld>/ and data/<tld>/<domain>.csv exist.
+        update_csv(url, 'pending_robots_check', 0, 0)
+        # --- END: Early file/directory creation and status update ---
+
         # Check robots.txt
-        rp = get_robots_parser(url, robots_cache)
+        rp = get_robots_parser(url, robots_cache) # This can be slow
+
         if rp and not rp.can_fetch(user_agent, url):
-            update_csv(url, 'blocked_by_robots', 0, 0)
+            update_csv(url, 'blocked_by_robots', 0, 0) # Update status
+            visited.add(url) # Mark as visited to prevent re-queuing / re-processing
             q.task_done()
             continue
-        visited.add(url)
-        tld, domain = get_tld_domain(url)
-        folder = get_domain_folder(url)
-        os.makedirs(folder, exist_ok=True)
-        md_path = get_md_path(url)
-        update_csv(url, 'editing', 0, 0)
+
+        # If allowed by robots.txt (or no robots.txt), proceed with full crawl
+        visited.add(url) # Add to visited set *after* robots check and *before* actual crawl
+        
+        update_csv(url, 'editing', 0, 0) # Update status to 'editing' before making network request for page
+        
+        md_path = get_md_path(url) # Path for the markdown file
         # Crawl page
         for attempt in range(RETRY_LIMIT):
             try:
@@ -170,6 +195,10 @@ def crawl_worker(q, visited, robots_cache, user_agent='OpenDomainsBot'):
         q.task_done()
 
 def main():
+    # Clear/Create the newly added domains log file at the start of each main execution
+    with open(NEWLY_ADDED_DOMAINS_LOG, 'w') as f_log:
+        f_log.write("") # Clears the file or creates it if it doesn't exist
+
     # Load seed URLs
     with open(CONFIG_URLS, 'r') as f:
         seeds = [line.strip() for line in f if line.strip() and not line.startswith('#')]

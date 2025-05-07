@@ -2,7 +2,7 @@ name: Scheduled Crawl
 
 on:
   schedule:
-    - cron: "*/6 * * * *" # Runs every 12 minutes
+    - cron: "*/6 * * * *" # Runs every 6 minutes
   workflow_dispatch:
 
 jobs:
@@ -23,7 +23,7 @@ jobs:
         run: |
           python scripts/init_folders.py
       - name: Run crawler (respects robots.txt)
-        timeout-minutes: 5 # Allow crawl to run for up to 10 minutes
+        timeout-minutes: 5 # Allow crawl to run for up to 5 minutes
         run: |
           python scripts/crawl.py
       - name: Commit and push changes
@@ -31,6 +31,32 @@ jobs:
         run: |
           git config --global user.name 'github-actions[bot]'
           git config --global user.email 'github-actions[bot]@users.noreply.github.com'
-          git add domains/ data/
+          git add domains/ data/ newly_added_domains.log
           git commit -m 'chore: update crawl results [skip ci]' || echo 'No changes to commit'
           git push
+      - name: Create Release for New Domains
+        if: always() # Attempt to create release even if previous steps fail
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: |
+          LOG_FILE="newly_added_domains.log"
+          if [ -f "$LOG_FILE" ] && [ -s "$LOG_FILE" ]; then
+            echo "New domains found, creating release..."
+            TAG_NAME="crawl-$(date +'%Y%m%d-%H%M%S')"
+            
+            # Prepare release notes
+            echo "## Crawl Report: ${TAG_NAME}" > release_notes.md
+            echo "" >> release_notes.md
+            echo "### Newly Added Domains:" >> release_notes.md
+            while IFS= read -r domain; do
+              echo "- ${domain}" >> release_notes.md
+            done < "$LOG_FILE"
+            
+            gh release create "$TAG_NAME" \
+              --title "Crawl Results - ${TAG_NAME}" \
+              --notes-file release_notes.md \
+              "$LOG_FILE"
+            echo "Release $TAG_NAME created."
+          else
+            echo "No new domains logged in $LOG_FILE or file doesn't exist. Skipping release."
+          fi

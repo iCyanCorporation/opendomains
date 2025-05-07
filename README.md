@@ -130,19 +130,22 @@ This will:
 The project includes `.github/workflows/crawl.yml` which is configured to:
 
 - Run scheduled jobs frequently (e.g., every 12 minutes).
-- Execute the `scripts/crawl.py` for a limited duration in each run (e.g., 10 minutes) to allow for incremental progress on long crawls.
-- The "Commit and push changes" step uses `if: always()`, meaning it will attempt to run and commit any generated data even if previous steps (like the crawl itself) are cancelled or encounter errors. This helps ensure data is saved in various termination scenarios.
-- This setup allows for more frequent updates to the repository, especially during extensive crawls.
+- Execute the `scripts/crawl.py` for a limited duration in each run (e.g., 10 minutes) to allow for incremental progress on long crawls. The script also logs any newly encountered domains (i.e., domains for which a folder is created in `domains/` for the first time during that run) to `newly_added_domains.log`.
+- The "Commit and push changes" step uses `if: always()`, meaning it will attempt to run and commit any generated data (including `newly_added_domains.log`) even if previous steps (like the crawl itself) are cancelled or encounter errors. This helps ensure data is saved in various termination scenarios.
+- After committing, a "Create Release for New Domains" step runs (also with `if: always()`). If `newly_added_domains.log` contains entries, this step creates a new GitHub Release. The release is tagged with the current timestamp (e.g., `crawl-YYYYMMDD-HHMMSS`), includes a summary of the new domains in its notes, and attaches the `newly_added_domains.log` file as an asset.
+- This setup allows for more frequent updates to the repository and provides a summary of newly added domains via GitHub Releases.
 - Updates CSV files in the `data/` directory with crawl status and metadata.
 
 ### 🔁 Workflow States
 
 Each target domain in the CSV file will reflect:
 
-- `waiting`: Not yet processed
-- `editing`: Actively being crawled
-- `finished`: Crawl completed
-- `error`: Failed or skipped after retry
+- `pending_robots_check`: URL taken from queue, domain folder created, CSV entry made; awaiting `robots.txt` processing.
+- `editing`: `robots.txt` allows crawling (or no `robots.txt`), page content is being fetched and processed.
+- `blocked_by_robots`: `robots.txt` disallows crawling for this URL.
+- `finished`: Crawl completed for this specific URL, content saved, subpages (if any) queued.
+- `error`: Failed to fetch or process the URL after retry attempts.
+- `waiting`: (Implicitly) URLs in `config/init-url.txt` not yet picked up or URLs queued by other pages but not yet processed.
 
 ---
 
@@ -172,9 +175,10 @@ opendomains/
 │   └── reset_crawl.py        # Script to remove data/ and domains/ folders
 ├── .github/workflows/
 │   └── crawl.yml             # Scheduled GitHub Actions workflow
+├── newly_added_domains.log   # Log of domains added in the last crawl run (cleared on each run)
 └── README.md
 
-# Documentation reflects CSV-based progress tracking in data/ and markdown content in domains/.
+# Documentation reflects CSV-based progress tracking in data/, markdown content in domains/, and release process.
 ```
 
 ### 🧹 Naming & Formatting
