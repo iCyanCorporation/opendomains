@@ -1,8 +1,8 @@
 name: Scheduled Crawl
 
 on:
-  schedule:
-    - cron: "*/10 * * * *" # Runs every x minutes
+  # schedule:
+  #   - cron: "*/10 * * * *" # Runs every x minutes
   workflow_dispatch:
 
 jobs:
