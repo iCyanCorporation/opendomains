@@ -50,9 +50,6 @@ jobs:
             echo "## Crawl Report: ${TAG_NAME}" > release_notes.md
             echo "" >> release_notes.md
             echo "### Newly Added Domains:" >> release_notes.md
-            while IFS= read -r domain; do
-              echo "- ${domain}" >> release_notes.md
-            done < "$LOG_FILE"
             
             gh release create "$TAG_NAME" \
               --title "Crawl Results - ${TAG_NAME}" \
