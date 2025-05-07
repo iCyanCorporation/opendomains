@@ -219,4 +219,11 @@ def main():
     print('Crawling complete.')
 
 if __name__ == '__main__':
-    main()
+    try:
+        main()
+    except KeyboardInterrupt:
+        print("Crawling interrupted.")
+    except Exception as e:
+        print(f"An error occurred: {e}")
+    finally:
+        print("Exiting.")
