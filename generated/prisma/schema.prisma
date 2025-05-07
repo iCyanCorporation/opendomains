@@ -1,0 +1,33 @@
+generator client {
+  provider = "prisma-client-js"
+  output   = "../generated/prisma"
+}
+
+datasource db {
+  provider = "sqlite"
+  url      = env("DATABASE_URL")
+}
+
+model url_new {
+  id              Int       @id @default(autoincrement())
+  url             String    @unique
+  domain          String?
+  discovered_time DateTime? @default(now())
+
+  @@index([domain], map: "idx_new_domain")
+}
+
+model url_index {
+  id            Int       @id @default(autoincrement())
+  url           String    @unique
+  domain        String?
+  tld           String?
+  markdown_path String?
+  status        String?
+  createdAt     DateTime?
+  updatedAt     DateTime?
+  tags          String?
+
+  @@index([url], map: "idx_url_index_url")
+  @@index([domain], map: "idx_url_index_domain")
+}

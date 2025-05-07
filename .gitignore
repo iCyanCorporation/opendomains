@@ -7,6 +7,9 @@ __pycache__/
 /domains/*
 !/domains/.gitkeep
 
+# node_modules
+node_modules/
+
 # Environment files
 .env
 .env.*

@@ -1,0 +1,24 @@
+{
+  "name": "opendomains",
+  "version": "1.0.0",
+  "description": "**A scalable, automated system to archive web structures across all valid TLDs.**",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/iCyanCorporation/opendomains.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/iCyanCorporation/opendomains/issues"
+  },
+  "homepage": "https://github.com/iCyanCorporation/opendomains#readme",
+  "devDependencies": {
+    "@prisma/client": "^6.7.0",
+    "prisma": "^6.7.0"
+  }
+}
