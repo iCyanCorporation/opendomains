@@ -27,14 +27,14 @@ jobs:
         run: |
           export THREADS=10
           export TIMEOUT=5   # Sub-request timeout for crawl.py
-          export CRAWL_DURATION_SECONDS=270 # Script self-shutdown after 4.5 minutes
+          export MAX_URLS_TO_PROCESS=10000 # Script self-shutdown after processing this many URLs
           python scripts/crawl.py
       - name: Commit and push changes
         if: always() # Attempt to commit even if previous steps fail or are cancelled
         run: |
           git config --global user.name 'github-actions[bot]'
           git config --global user.email 'github-actions[bot]@users.noreply.github.com'
-          git add domains/ data/ newly_added_domains.log
+          git add domains/ data/ added_domains_new.log
           git commit -m 'chore: update crawl results [skip ci]' || echo 'No changes to commit'
           git push
       - name: Create Release for New Domains
@@ -42,7 +42,7 @@ jobs:
         env:
           GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         run: |
-          LOG_FILE="newly_added_domains.log"
+          LOG_FILE="added_domains_new.log"
           if [ -f "$LOG_FILE" ] && [ -s "$LOG_FILE" ]; then
             echo "New domains found, creating release..."
             TAG_NAME="crawl-$(date +'%Y%m%d-%H%M%S')"

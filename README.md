@@ -12,7 +12,7 @@
 - Launching URL crawls defined in `config/init-url.txt`.
 - **Respecting each website's `robots.txt` rules and skipping URLs that are disallowed for crawling.**
 - Recursively discovering and saving reachable subpages from the same domain (any path) and external domains into `domains/` as `.md` files.
-- Maintaining per-domain CSV files in the `data/` directory for status tracking and concurrency control.
+- Maintaining per-domain CSV files in the `data/` directory for tracking and concurrency control.
 
 ### 🔍 Problem Statement
 
@@ -70,8 +70,7 @@ You can configure settings in a `.env` file:
 
 ```env
 THREADS=5
-TIMEOUT=5
-RETRY_LIMIT=3
+MAX_URLS_TO_PROCESS=100
 ```
 
 ### 🗂️ Setup Instructions
@@ -91,7 +90,7 @@ RETRY_LIMIT=3
 3. Generate initial folder structure (creates `domains/` with TLD subfolders and `data/`):
 
    ```bash
-   python scripts/init_folders.py
+   python scripts/init_crawl.py
    ```
 
    This script initializes the `domains/` directory with subfolders for each TLD and also creates the `data/` directory.
@@ -118,25 +117,72 @@ RETRY_LIMIT=3
 python scripts/crawl.py
 ```
 
-This will:
+**Expected Workflow in `crawl.py`:**
 
-- Read `init-url.txt`.
-- **Check Persistent State:** For each seed URL and subsequently discovered subpage URL, the script checks its status in the corresponding domain's CSV file (in `data/`). If a URL is already marked with a terminal status (`finished`, `blocked_by_robots`, `error`), it will be skipped for the current run, preventing re-processing of already completed or definitively failed URLs.
-- **Respect `robots.txt`:** For URLs not in a terminal state, it checks and respects each site's `robots.txt` before crawling.
-- Begin crawling eligible seed URLs. It will follow links on the same domain (regardless of path) and also add discovered external domains to the crawl queue (after checking their persistent status), saving content under their respective TLD and domain folders.
+0. **Before Running**
+
+   - reset added_domains_new.log into empty
+
+1. **Load Queue:**
+
+   - Read seed URLs from `config/init-url.txt`.(first run only)
+   - Load any queued URLs from `added_domains_queue.txt` (if used).
+
+2. **For Each URL in the Queue:**
+
+   - **Check how many row in added_domains_new.log:**
+
+     - if row count is over MAX_URLS_TO_PROCESS then stop
+     - if not, keep going
+
+   - **Pop out a URL from the queue**
+
+   - **Check CSV State:**
+
+     - Look up the URL in the corresponding domain's CSV file in `data/`.
+     - If the URL is marked as `finished`, `blocked_by_robots`, or `error`, skip it.
+     - If not present, add it with state `pending_robots_check`.
+
+   - **Check robots.txt:**
+
+     - If allowed, update state to `editing`.
+     - If disallowed, update state to `blocked_by_robots` and skip further processing.
+
+   - **Crawl and Save:**
+
+     - Fetch the page content.
+     - Convert to markdown and save under the correct `domains/<tld>/<domain>/` folder.
+       - convert character / into ^
+     - Update the CSV state to `finished` for the URL.
+     - Log the domain to `added_domains_new.log` if it is new row by row.
+     - Log the domain to `added_domains_history.txt` row by row.
+
+   - **Extract and Queue New URLs:**
+     - Parse links from the page.
+     - For each new URL:
+       - If it belongs to the same domain, add to the queue if not already processed.
+       - If it is an external domain, add to `added_domains_queue.txt` and initialize its CSV if not present.
+
+3. **Repeat** until the queue is empty or `MAX_URLS_TO_PROCESS` is reached.
+
+4. **Concurrency:**
+
+   - Multiple threads may process URLs in parallel, with file locks or CSV state checks to avoid conflicts.
+
+5. **Stateful Resumption:**
+   - On restart, the script resumes from the last state using the CSV files and queue files.
 
 ### 🛎 GitHub Actions Routine
 
 The project includes `.github/workflows/crawl.yml` which is configured to:
 
-- Run scheduled jobs frequently (e.g., every 6 minutes as per the current `cron: "*/6 * * * *"` setting).
-- The GitHub Actions step for running the crawler (`Run crawler (respects robots.txt)`) has a hard timeout of 5 minutes (`timeout-minutes: 5`).
-- To allow for a more graceful shutdown, the `scripts/crawl.py` itself is configured (via the `CRAWL_DURATION_SECONDS=270` environment variable set in the workflow) to attempt to stop after 4.5 minutes of execution.
-- Within the GitHub Actions environment, the crawler script is also run with `THREADS=5` and a sub-request `TIMEOUT=5` seconds, overriding any `.env` or script defaults for these specific values.
+- Run scheduled jobs frequently (e.g., every 10 minutes as per the current `cron: "*/10 * * * *"` setting in the workflow).
+- The `scripts/crawl.py` is configured (via the `MAX_URLS_TO_PROCESS=10000` environment variable set in the workflow) to attempt a graceful shutdown after successfully processing 10,000 URLs.
+- Within the GitHub Actions environment, the crawler script is also run with `THREADS=10`, overriding any `.env` or script defaults for these specific values.
 - **Stateful Resumption:** The script checks the status of URLs in the `data/` CSV files before processing. If a URL is already marked as `finished`, `blocked_by_robots`, or `error`, it will be skipped in the current run. This allows the crawl to effectively resume by not re-processing completed or failed items.
-- The script logs any newly encountered domains (i.e., domains for which a folder is created in `domains/` for the first time during that run) to `newly_added_domains.log`.
-- The "Commit and push changes" step uses `if: always()`, meaning it will attempt to run and commit any generated data (including `newly_added_domains.log`) even if previous steps (like the crawl itself) are cancelled or encounter errors. This helps ensure data is saved in various termination scenarios.
-- After committing, a "Create Release for New Domains" step runs (also with `if: always()`). If `newly_added_domains.log` contains entries, this step creates a new GitHub Release. The release is tagged with the current timestamp (e.g., `crawl-YYYYMMDD-HHMMSS`), includes a summary of the new domains in its notes, and attaches the `newly_added_domains.log` file as an asset.
+- The script logs any newly encountered domains (i.e., domains for which a folder is created in `domains/` for the first time during that run) to `added_domains_new.log`.
+- The "Commit and push changes" step uses `if: always()`, meaning it will attempt to run and commit any generated data (including `added_domains_new.log`) even if previous steps (like the crawl itself) are cancelled or encounter errors. This helps ensure data is saved in various termination scenarios.
+- After committing, a "Create Release for New Domains" step runs (also with `if: always()`). If `added_domains_new.log` contains entries, this step creates a new GitHub Release. The release is tagged with the current timestamp (e.g., `crawl-YYYYMMDD-HHMMSS`), includes a summary of the new domains in its notes, and attaches the `added_domains_new.log` file as an asset.
 - This setup allows for more frequent updates to the repository and provides a summary of newly added domains via GitHub Releases.
 - Updates CSV files in the `data/` directory with crawl status and metadata.
 
@@ -163,23 +209,32 @@ opendomains/
 │   └── tlds-alpha-by-domain.txt # Source of TLDs from ICANN
 │
 ├── data/                     # Stores CSV files for crawl progress and metadata
-│   └── com/
-│       └── example.com.csv
+│   └── example.com.csv
 │
 ├── domains/                  # Stores crawled content as markdown
 │   └── com/
-│       └── example.com/
+│       ├── example.com/
+│       │   ├── index.md
+│       │   ├── about.md
+│       │   └── contact.md
+│       └── product.example.com/
 │           ├── index.md
-│           ├── about.md
-│           └── contact.md
+│           └── about.md
 │
 ├── scripts/
 │   ├── crawl.py              # Main crawling script
-│   ├── init_folders.py       # Bootstrap script for folder creation (domains/ and data/)
+│   ├── init_crawl.py         # Bootstrap script for folder creation (domains/ and data/)
 │   └── reset_crawl.py        # Script to remove data/ and domains/ folders
+│
 ├── .github/workflows/
 │   └── crawl.yml             # Scheduled GitHub Actions workflow
-├── newly_added_domains.log   # Log of domains added in the last crawl run (cleared on each run)
+│
+├── added_domains_new.log     # Log of domains added in the last crawl run (cleared on each run and update when a crwal get new urls in real-time)
+│
+├── added_domains_history.txt # Add urls after convert it into markdown
+│
+├── added_domains_queue.txt   # Add urls when get urls from a page
+│
 └── README.md
 
 # Documentation reflects CSV-based progress tracking in data/, markdown content in domains/, and release process.
@@ -198,7 +253,6 @@ opendomains/
 ### 🔀 Branching Strategy
 
 - `main`: Production branch (GitHub Actions runs here).
-- `dev`: Development and new feature integration.
 - Feature branches: `feature/<name>`
 
 ### 🧪 Pull Requests
