@@ -1,0 +1,1 @@
+ALFAKHER Website Sticker Confirmation
