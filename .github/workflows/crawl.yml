@@ -23,12 +23,12 @@ jobs:
       #   run: |
       #     python scripts/init_crawl.py
       - name: Run crawler (uses updated scripts/crawl.py logic)
-        timeout-minutes: 25 # Step timeout (hard cutoff)
+        timeout-minutes: 28 # Step timeout (hard cutoff)
         # Uses the latest crawl.py with improved status handling and randomization
         run: |
           export THREADS=10
           export TIMEOUT=5   # Sub-request timeout for crawl.py
-          export MAX_URLS_TO_PROCESS=50 # Script self-shutdown after processing this many URLs
+          export MAX_URLS_TO_PROCESS=100 # Script self-shutdown after processing this many URLs
           python scripts/crawl.py
       - name: Commit and push changes
         if: always() # Attempt to commit even if previous steps fail or are cancelled
