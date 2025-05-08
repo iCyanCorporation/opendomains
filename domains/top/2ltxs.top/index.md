@@ -1,0 +1,2 @@
+Click me 18+
+[![](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAEALAAAAAABAAEAAAIBTAA7 "LiveInternet: показано число просмотров и посетителей за 24 часа")](https://www.liveinternet.ru/click;ipkref)
