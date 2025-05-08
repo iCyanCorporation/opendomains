@@ -87,13 +87,13 @@ MAX_URLS_TO_PROCESS=100
    - Download `tlds-alpha-by-domain.txt` into `config/`.
    - Add seed URLs to `config/init-url.txt`.
 
-3. Generate initial folder structure (creates `domains/` with TLD subfolders and `data/`):
+3. Generate initial folder structure and initialize the database (creates `domains/` with TLD subfolders and `db/`):
 
    ```bash
    python scripts/init_crawl.py
    ```
 
-   This script initializes the `domains/` directory with subfolders for each TLD and also creates the `data/` directory.
+   This script initializes the `domains/` directory with subfolders for each TLD, creates the `db/` directory, and sets up the SQLite database for URL tracking.
 
 4. Start the crawler (locally):
 
@@ -174,17 +174,15 @@ python scripts/crawl.py
 
 ### 🛎 GitHub Actions Routine
 
-The project includes `.github/workflows/crawl.yml` which is configured to:
+The project includes [`crawl.yml`](.github/workflows/crawl.yml:1) which is configured to:
 
-- Run scheduled jobs frequently (e.g., every 10 minutes as per the current `cron: "*/10 * * * *"` setting in the workflow).
-- The `scripts/crawl.py` is configured (via the `MAX_URLS_TO_PROCESS=10000` environment variable set in the workflow) to attempt a graceful shutdown after successfully processing 10,000 URLs.
-- Within the GitHub Actions environment, the crawler script is also run with `THREADS=10`, overriding any `.env` or script defaults for these specific values.
-- **Stateful Resumption:** The script checks the status of URLs in the `data/` CSV files before processing. If a URL is already marked as `finished`, `blocked_by_robots`, or `error`, it will be skipped in the current run. This allows the crawl to effectively resume by not re-processing completed or failed items.
-- The script logs any newly encountered domains (i.e., domains for which a folder is created in `domains/` for the first time during that run) to `added_domains_new.log`.
-- The "Commit and push changes" step uses `if: always()`, meaning it will attempt to run and commit any generated data (including `added_domains_new.log`) even if previous steps (like the crawl itself) are cancelled or encounter errors. This helps ensure data is saved in various termination scenarios.
-- After committing, a "Create Release for New Domains" step runs (also with `if: always()`). If `added_domains_new.log` contains entries, this step creates a new GitHub Release. The release is tagged with the current timestamp (e.g., `crawl-YYYYMMDD-HHMMSS`), includes a summary of the new domains in its notes, and attaches the `added_domains_new.log` file as an asset.
-- This setup allows for more frequent updates to the repository and provides a summary of newly added domains via GitHub Releases.
-- Updates CSV files in the `data/` directory with crawl status and metadata.
+- Run scheduled jobs or manual dispatches via GitHub Actions.
+- Set up Python 3.10, install dependencies, and run `python scripts/init_crawl.py` to generate folders and initialize the SQLite database.
+- Run the crawler with environment variables (`THREADS=10`, `TIMEOUT=5`, `MAX_URLS_TO_PROCESS=3` by default in the workflow).
+- Commit and push changes to `domains/`, `db/`, and `added_domains_new.log` after each run, even if previous steps fail.
+- Create a GitHub Release if new domains are found, attaching `added_domains_new.log` as a release asset and summarizing new domains in the release notes.
+- Supports stateful resumption by checking crawl status in the database and logs.
+- Updates crawl status and metadata in the `db/` directory (SQLite database) instead of only CSV files.
 
 ### 🔁 Workflow States
 
@@ -205,13 +203,13 @@ Each target domain in the CSV file will reflect:
 opendomains/
 │
 ├── config/
-│   ├── init-url.txt          # Seed URLs to start crawling
-│   └── tlds-alpha-by-domain.txt # Source of TLDs from ICANN
+│   ├── init-url.txt              # Seed URLs to start crawling
+│   └── tlds-alpha-by-domain.txt  # Source of TLDs from ICANN
 │
-├── data/                     # Stores CSV files for crawl progress and metadata
-│   └── example.com.csv
+├── db/                          # SQLite database for URL tracking and crawl state
+│   └── opendomains.db
 │
-├── domains/                  # Stores crawled content as markdown
+├── domains/                     # Stores crawled content as markdown
 │   └── com/
 │       ├── example.com/
 │       │   ├── index.md
@@ -222,22 +220,22 @@ opendomains/
 │           └── about.md
 │
 ├── scripts/
-│   ├── crawl.py              # Main crawling script
-│   ├── init_crawl.py         # Bootstrap script for folder creation (domains/ and data/)
-│   └── reset_crawl.py        # Script to remove data/ and domains/ folders
+│   ├── crawl.py                  # Main crawling script
+│   ├── init_crawl.py             # Bootstrap script for folder and DB creation
+│   └── reset_crawl.py            # Script to remove data/ and domains/ folders
 │
 ├── .github/workflows/
-│   └── crawl.yml             # Scheduled GitHub Actions workflow
+│   └── crawl.yml                 # Scheduled GitHub Actions workflow
 │
-├── added_domains_new.log     # Log of domains added in the last crawl run (cleared on each run and update when a crwal get new urls in real-time)
+├── added_domains_new.log         # Log of domains added in the last crawl run (cleared on each run and updated in real-time)
 │
-├── added_domains_history.txt # Add urls after convert it into markdown
+├── added_domains_history.txt     # Add URLs after converting to markdown
 │
-├── added_domains_queue.txt   # Add urls when get urls from a page
+├── added_domains_queue.txt       # Add URLs when discovered from a page
 │
 └── README.md
 
-# Documentation reflects CSV-based progress tracking in data/, markdown content in domains/, and release process.
+# Documentation reflects SQLite-based progress tracking in db/, markdown content in domains/, and release process.
 ```
 
 ### 🧹 Naming & Formatting
