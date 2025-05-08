@@ -1,8 +1,8 @@
 name: Scheduled Crawl
 
 on:
-  # schedule:
-  #   - cron: "*/10 * * * *" # Runs every x minutes
+  schedule:
+    - cron: "*/12 * * * *" # Runs every x minutes
   workflow_dispatch:
 
 jobs:
@@ -23,12 +23,12 @@ jobs:
         run: |
           python scripts/init_crawl.py
       - name: Run crawler (uses updated scripts/crawl.py logic)
-        timeout-minutes: 5 # Step timeout (hard cutoff)
+        timeout-minutes: 10 # Step timeout (hard cutoff)
         # Uses the latest crawl.py with improved status handling and randomization
         run: |
           export THREADS=10
           export TIMEOUT=5   # Sub-request timeout for crawl.py
-          export MAX_URLS_TO_PROCESS=3 # Script self-shutdown after processing this many URLs
+          export MAX_URLS_TO_PROCESS=100 # Script self-shutdown after processing this many URLs
           python scripts/crawl.py
       - name: Commit and push changes
         if: always() # Attempt to commit even if previous steps fail or are cancelled
