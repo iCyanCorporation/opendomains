@@ -21,7 +21,7 @@ jobs:
           pip install -r requirements.txt
       - name: Generate TLD folders (idempotent)
         run: |
-          python scripts/init_folders.py
+          python scripts/init_crawl.py
       - name: Run crawler (uses updated scripts/crawl.py logic)
         timeout-minutes: 5 # Step timeout (hard cutoff)
         # Uses the latest crawl.py with improved status handling and randomization
