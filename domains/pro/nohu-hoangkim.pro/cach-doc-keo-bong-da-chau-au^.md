@@ -36,11 +36,11 @@ Th5
 
 **Có thể bạn quan tâm**
 
-* [Top 5 cầu thủ có lương cao nhất thế giới bóng đá hiện nay](https://nohu-hoangkim.pro/top-5-cau-thu-co-luong-cao-nhat-the-gioi-bong-da-hien-nay/ "Top 5 cầu thủ có lương cao nhất thế giới bóng đá hiện nay")
+* [Mơ thấy người yêu cũ đánh con gì? giải mã chi tiết nhất](https://nohu-hoangkim.pro/mo-thay-nguoi-yeu-cu-danh-con-gi-giai-ma-chi-tiet-nhat/ "Mơ thấy người yêu cũ đánh con gì? giải mã chi tiết nhất")
+* [Mơ thấy người rơi xuống giếng đánh con gì sẽ trúng lớn](https://nohu-hoangkim.pro/mo-thay-nguoi-roi-xuong-gieng-danh-con-gi-se-trung-lon/ "Mơ thấy người rơi xuống giếng đánh con gì sẽ trúng lớn")
 * [Gà bướm là gì? Đặc điểm dễ dàng nhận biết giống gà độc lạ](https://nohu-hoangkim.pro/ga-buom-la-gi/ "Gà bướm là gì? Đặc điểm dễ dàng nhận biết giống gà độc lạ")
-* [Nên mua loa Marshall loại nào? Tư vấn chọn theo nhu cầu](https://nohu-hoangkim.pro/nen-mua-loa-marshall-loai-nao/ "Nên mua loa Marshall loại nào? Tư vấn chọn theo nhu cầu")
 * [Kèo chấp thẻ phạt là gì? Bí quyết chơi kèo chấp thẻ phạt](https://nohu-hoangkim.pro/keo-chap-the-phat-la-gi/ "Kèo chấp thẻ phạt là gì? Bí quyết chơi kèo chấp thẻ phạt ")
-* [Những thông tin về huấn luyện viên mới của ĐTQG Việt Nam](https://nohu-hoangkim.pro/nhung-thong-tin-ve-huan-luyen-vien-moi-cua-dtqg-viet-nam/ "Những thông tin về huấn luyện viên mới của ĐTQG Việt Nam")
+* [Bệnh Coryza trên gà có gây ra vấn đề nguy hiểm hay không](https://nohu-hoangkim.pro/benh-coryza-tren-ga-co-gay-ra-van-de-nguy-hiem-hay-khong/ "Bệnh Coryza trên gà có gây ra vấn đề nguy hiểm hay không")
 
 Table of Contents
 
@@ -78,7 +78,7 @@ Liverpool (1): 2.10 – Hòa (X): 3.25 – Chelsea (2): 3.60
 
 Ý nghĩa:
 
-Xem thêm : [Mơ thấy người yêu cũ đánh con gì? giải mã chi tiết nhất](https://nohu-hoangkim.pro/mo-thay-nguoi-yeu-cu-danh-con-gi-giai-ma-chi-tiet-nhat/)
+Xem thêm : [Kèo chấp thẻ phạt là gì? Bí quyết chơi kèo chấp thẻ phạt](https://nohu-hoangkim.pro/keo-chap-the-phat-la-gi/)
 
 Nếu bạn đặt 100.000 VNĐ cho Liverpool thắng và đội thắng thật, bạn nhận được 100.000 x 2.10 = 210.000 VNĐ (bao gồm cả tiền gốc).
 
@@ -109,7 +109,7 @@ Ví dụ trận đấu ký hiệu: 1 X 2
 
 Man City vs MU tỷ lệ kèo lần lượt: 1.75  3.60 4.20
 
-Xem thêm : [Kèo chấp thẻ phạt là gì? Bí quyết chơi kèo chấp thẻ phạt](https://nohu-hoangkim.pro/keo-chap-the-phat-la-gi/)
+Xem thêm : [Những thông tin về huấn luyện viên mới của ĐTQG Việt Nam](https://nohu-hoangkim.pro/nhung-thong-tin-ve-huan-luyen-vien-moi-cua-dtqg-viet-nam/)
 
 Nếu đặt 100.000 VNĐ vào:
 
