@@ -1,0 +1,1 @@
+{"type":"service","name":"@link-shortener/handler-service"}
