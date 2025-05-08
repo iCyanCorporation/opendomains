@@ -296,7 +296,7 @@ We take great pride in using natural fibers like wool and felt, ensuring that ev
 
 [Shop Now](/shop)
 
-[![](https://knitfindz.shop/wp-content/uploads/2025/04/il_794xN.3246543344_84kt-247x247.jpg)![](https://knitfindz.shop/wp-content/uploads/2025/04/il_794xN.3488566485_cm5j.jpg)](https://knitfindz.shop/product/small-sea-shells-table-confetti-random-shell-mixture-uk/)
+[![](https://knitfindz.shop/wp-content/uploads/2025/04/il_794xN.3137588433_9jh7-247x247.jpg)![](https://knitfindz.shop/wp-content/uploads/2025/04/il_794xN.3488601153_lrlx.jpg)](https://knitfindz.shop/product/100-mixed-seashells-tiny-mini-sea-shells-craft-wedding-beach-confetti-715-mm-terrarium/)
 
 **3 Reasons to Buy Our Handmade Wool and Felt Doll Decorations**
 ================================================================
