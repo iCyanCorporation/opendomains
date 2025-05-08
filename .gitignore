@@ -2,11 +2,6 @@
 __pycache__/
 *.py[cod]
 
-# Crawler output
-/data/*
-/domains/*
-!/domains/.gitkeep
-
 # node_modules
 node_modules/
 
