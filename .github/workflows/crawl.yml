@@ -28,7 +28,7 @@ jobs:
         run: |
           export THREADS=10
           export TIMEOUT=5   # Sub-request timeout for crawl.py
-          export MAX_URLS_TO_PROCESS=100 # Script self-shutdown after processing this many URLs
+          export MAX_URLS_TO_PROCESS=5 # Script self-shutdown after processing this many URLs
           python scripts/crawl.py
       - name: Commit and push changes
         if: always() # Attempt to commit even if previous steps fail or are cancelled
