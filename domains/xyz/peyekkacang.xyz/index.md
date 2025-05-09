@@ -130,23 +130,25 @@ Jika Anda tidak lagi memiliki akses ke email atau nomor telepon yang terhubung k
 
 [![FASTSPIN - Mafia Bounty Exclusive](//dsuown9evwz4y.cloudfront.net/Images/banners/home/DesktopID-414-20250501023803.png "FASTSPIN - Mafia Bounty Exclusive")](/desktop/slots/fast-spin)
 [![PG SOFT - FORTUNE GAIA EXCLUSIVE](//dsuown9evwz4y.cloudfront.net/Images/banners/home/DesktopID-422-20250502114129.jpg "PG SOFT - FORTUNE GAIA EXCLUSIVE")](/desktop/slots/pgsoft)
+[![HACKSAW – DUEL REELS TOURNAMENT](//dsuown9evwz4y.cloudfront.net/Images/banners/home/DesktopID-438-20250508140210.png "HACKSAW – DUEL REELS TOURNAMENT")](/desktop/slots/hacksaw)
 [![NOLIMIT CITY CELEBRATION MAY 2025](//dsuown9evwz4y.cloudfront.net/Images/banners/home/DesktopID-426-20250502114329.png "NOLIMIT CITY CELEBRATION MAY 2025")](/desktop/slots/no-limit-city)
 
-[![GA28 Cockfight Battle](//dsuown9evwz4y.cloudfront.net/Images/banners/home/DesktopID-430-20250506160920.png "GA28 Cockfight Battle")](/desktop/cockfight/ga28)
+[![NLC, NE, RT, BTG - SPIN GIFTS PROMOTION](//dsuown9evwz4y.cloudfront.net/Images/banners/home/DesktopID-338-20250327113626.png "NLC, NE, RT, BTG - SPIN GIFTS PROMOTION")](/desktop/slots/no-limit-city)
 [![MICROGAMING - HUJAN UANG PARA DEWA](//dsuown9evwz4y.cloudfront.net/Images/banners/home/DesktopID-410-20250429235746.png "MICROGAMING - HUJAN UANG PARA DEWA")](/desktop/slots/microgaming)
 [![SPADEGAMING - PLAY & WIN GRAND TOURNAMENT](//dsuown9evwz4y.cloudfront.net/Images/banners/home/DesktopID-154-20250221105401.png "SPADEGAMING - PLAY & WIN GRAND TOURNAMENT")](/desktop/slots/spade-gaming)
-[![NLC, NE, RT, BTG - SPIN GIFTS PROMOTION](//dsuown9evwz4y.cloudfront.net/Images/banners/home/DesktopID-338-20250327113626.png "NLC, NE, RT, BTG - SPIN GIFTS PROMOTION")](/desktop/slots/no-limit-city)
+[![GA28 Cockfight Battle](//dsuown9evwz4y.cloudfront.net/Images/banners/home/DesktopID-430-20250506160920.png "GA28 Cockfight Battle")](/desktop/cockfight/ga28)
 
 [![FASTSPIN - WILD MAFIA GAME PROMO BANNER](//dsuown9evwz4y.cloudfront.net/Images/banners/home/DesktopID-394-20250424160741.png "FASTSPIN - WILD MAFIA GAME PROMO BANNER")](javascript:registerPopup({ content:'Silahkan login terlebih dahulu.' });)
 [![HACKSAW - PRAY FOR THREE GAME PROMO BANNER](//dsuown9evwz4y.cloudfront.net/Images/banners/home/DesktopID-418-20250502113442.png "HACKSAW - PRAY FOR THREE GAME PROMO BANNER")](javascript:registerPopup({ content:'Silahkan login terlebih dahulu.' });)
 
 Pemberitahuan
 
-* Pemeliharaan Terjadwal: Funky Games pada 27-Apr-2025 dari 21:14:36 sampai 11-May-2025 22:59:59. Selama waktu ini, Funky Games permainan tidak akan tersedia. Kami memohon maaf atas ketidaknyamanan yang mungkin ditimbulkan.
+* Pemeliharaan Terjadwal: Funky Games pada 05-May-2025 dari 21:19:00 sampai 10-Jun-2025 00:30:00. Selama waktu ini, Funky Games permainan tidak akan tersedia. Kami memohon maaf atas ketidaknyamanan yang mungkin ditimbulkan.
+* Pemeliharaan Terjadwal: CMD pada 09-May-2025 dari 11:30:00 sampai 17:00:00. Selama waktu ini, CMD permainan tidak akan tersedia. Kami memohon maaf atas ketidaknyamanan yang mungkin ditimbulkan.
 * Pemeliharaan Terjadwal: Spinix pada 01-Oct-2024 dari 23:00:00 sampai 31-Dec-2025 23:59:59. Selama waktu ini, Spinix permainan tidak akan tersedia. Kami memohon maaf atas ketidaknyamanan yang mungkin ditimbulkan.
 * Pemeliharaan Terjadwal: Fairbet pada 14-Jan-2025 dari 12:00:00 sampai 01-Jan-2026 00:00:00. Selama waktu ini, Fairbet permainan tidak akan tersedia. Kami memohon maaf atas ketidaknyamanan yang mungkin ditimbulkan.
 
-Thu, 08-May-2025 20:42:19
+Fri, 09-May-2025 14:16:38
 
 [![Jackpot Play](//dsuown9evwz4y.cloudfront.net/Images/jackpot/jackpot-play-logo-v2.png?v=20241125)
 
@@ -287,76 +289,76 @@ Video Slots Popular
 
 PEMENANG MESIN SLOT
 
-* ![Gates of Olympus 1000](//dsuown9evwz4y.cloudfront.net/Images/providers/PP/vs20olympx.jpg?v=20241125)
+* ![Sweet Bonanza Dice](//dsuown9evwz4y.cloudfront.net/Images/providers/PP/vs20bnnzdice.jpg?v=20241125)
 
   a\*\*\*\*7
 
-  IDR 2,106,000.00
+  IDR 3,061,000.00
+
+  Sweet Bonanza Dice
+* ![Gates of Olympus 1000](//dsuown9evwz4y.cloudfront.net/Images/providers/PP/vs20olympx.jpg?v=20241125)
+
+  gon\*\*\*\*e
+
+  IDR 1,526,600.00
+
+  Gates of Olympus 1000
+* ![Sweet Bonanza](//dsuown9evwz4y.cloudfront.net/Images/providers/PP/vs20fruitsw.jpg?v=20241125)
+
+  rendi\*\*\*\*1
+
+  IDR 1,169,840.00
+
+  Sweet Bonanza
+* ![Sweet Bonanza Dice](//dsuown9evwz4y.cloudfront.net/Images/providers/PP/vs20bnnzdice.jpg?v=20241125)
+
+  a\*\*\*\*7
+
+  IDR 956,000.00
+
+  Sweet Bonanza Dice
+* ![Gates of Olympus 1000](//dsuown9evwz4y.cloudfront.net/Images/providers/PP/vs20olympx.jpg?v=20241125)
+
+  gon\*\*\*\*e
+
+  IDR 751,500.00
+
+  Gates of Olympus 1000
+* ![Gates of Olympus 1000](//dsuown9evwz4y.cloudfront.net/Images/providers/PP/vs20olympx.jpg?v=20241125)
+
+  gon\*\*\*\*e
+
+  IDR 749,700.00
+
+  Gates of Olympus 1000
+* ![Gates of Olympus 1000](//dsuown9evwz4y.cloudfront.net/Images/providers/PP/vs20olympx.jpg?v=20241125)
+
+  gon\*\*\*\*e
+
+  IDR 722,900.00
+
+  Gates of Olympus 1000
+* ![Gates of Olympus 1000](//dsuown9evwz4y.cloudfront.net/Images/providers/PP/vs20olympx.jpg?v=20241125)
+
+  gon\*\*\*\*e
+
+  IDR 588,500.00
 
   Gates of Olympus 1000
 * ![Sweet Bonanza Dice](//dsuown9evwz4y.cloudfront.net/Images/providers/PP/vs20bnnzdice.jpg?v=20241125)
 
   a\*\*\*\*7
 
-  IDR 1,792,250.00
+  IDR 536,500.00
 
   Sweet Bonanza Dice
-* ![Gates of Olympus 1000](//dsuown9evwz4y.cloudfront.net/Images/providers/PP/vs20olympx.jpg?v=20241125)
+* ![Gates of Olympus Super Scatter](//dsuown9evwz4y.cloudfront.net/Images/providers/PP/vs20olympgold.jpg?v=20241125)
 
-  a\*\*\*\*7
+  khoi\*\*\*\*3
 
-  IDR 1,574,000.00
+  IDR 521,500.00
 
-  Gates of Olympus 1000
-* ![Gates of Olympus 1000](//dsuown9evwz4y.cloudfront.net/Images/providers/PP/vs20olympx.jpg?v=20241125)
-
-  a\*\*\*\*7
-
-  IDR 1,386,000.00
-
-  Gates of Olympus 1000
-* ![Gates of Olympus 1000](//dsuown9evwz4y.cloudfront.net/Images/providers/PP/vs20olympx.jpg?v=20241125)
-
-  a\*\*\*\*7
-
-  IDR 979,000.00
-
-  Gates of Olympus 1000
-* ![Gates of Olympus 1000](//dsuown9evwz4y.cloudfront.net/Images/providers/PP/vs20olympx.jpg?v=20241125)
-
-  a\*\*\*\*7
-
-  IDR 917,000.00
-
-  Gates of Olympus 1000
-* ![Gates of Olympus 1000](//dsuown9evwz4y.cloudfront.net/Images/providers/PP/vs20olympx.jpg?v=20241125)
-
-  a\*\*\*\*7
-
-  IDR 890,000.00
-
-  Gates of Olympus 1000
-* ![Gates of Olympus 1000](//dsuown9evwz4y.cloudfront.net/Images/providers/PP/vs20olympx.jpg?v=20241125)
-
-  a\*\*\*\*7
-
-  IDR 745,000.00
-
-  Gates of Olympus 1000
-* ![Gates of Olympus 1000](//dsuown9evwz4y.cloudfront.net/Images/providers/PP/vs20olympx.jpg?v=20241125)
-
-  a\*\*\*\*7
-
-  IDR 692,000.00
-
-  Gates of Olympus 1000
-* ![Gates of Olympus 1000](//dsuown9evwz4y.cloudfront.net/Images/providers/PP/vs20olympx.jpg?v=20241125)
-
-  a\*\*\*\*7
-
-  IDR 644,000.00
-
-  Gates of Olympus 1000
+  Gates of Olympus Super Scatter
 
 [![Arcade](//dsuown9evwz4y.cloudfront.net/Images/~normad-alpha/dark-gold/desktop/home/arcade-link.jpg?v=20241125)](/desktop/arcade)
 
@@ -402,135 +404,123 @@ PEMENANG MESIN SLOT
 
 ![PP](//dsuown9evwz4y.cloudfront.net/Images/~normad-alpha/dark-gold/desktop/home/slots/animations/PP.png?v=20241125)
 
-![PP](//dsuown9evwz4y.cloudfront.net/Images/providers/PP/vs9ridelightng.jpg?v=20241125)
+![PP](//dsuown9evwz4y.cloudfront.net/Images/providers/PP/vs10bburger.jpg?v=20241125)
 
-[COBA](javascript:alert('Anda akan bermain versi demo, ini berarti menang/kalah dalam permainan tidak akan mempengaruhi dana/saldo anda.');openPopup('http://demogamesfree-asia.pragmaticplay.net/gs2c/openGame.do?gameSymbol=vs9ridelightng&lang=en&jurisdiction=99&cur=IDR&lobbyUrl=js://window.close()', 'Slots');)
+[COBA](javascript:alert('Anda akan bermain versi demo, ini berarti menang/kalah dalam permainan tidak akan mempengaruhi dana/saldo anda.');openPopup('http://demogamesfree-asia.pragmaticplay.net/gs2c/openGame.do?gameSymbol=vs10bburger&lang=en&jurisdiction=99&cur=IDR&lobbyUrl=js://window.close()', 'Slots');)
 [MAIN](javascript:registerPopup({ content:'Silahkan login terlebih dahulu.' });)
 
-![PP](//dsuown9evwz4y.cloudfront.net/Images/providers/PP/vs13g.jpg?v=20241125)
+![PP](//dsuown9evwz4y.cloudfront.net/Images/providers/PP/vswayshammthor.jpg?v=20241125)
 
-[COBA](javascript:alert('Anda akan bermain versi demo, ini berarti menang/kalah dalam permainan tidak akan mempengaruhi dana/saldo anda.');openPopup('http://demogamesfree-asia.pragmaticplay.net/gs2c/openGame.do?gameSymbol=vs13g&lang=en&jurisdiction=99&cur=IDR&lobbyUrl=js://window.close()', 'Slots');)
+[COBA](javascript:alert('Anda akan bermain versi demo, ini berarti menang/kalah dalam permainan tidak akan mempengaruhi dana/saldo anda.');openPopup('http://demogamesfree-asia.pragmaticplay.net/gs2c/openGame.do?gameSymbol=vswayshammthor&lang=en&jurisdiction=99&cur=IDR&lobbyUrl=js://window.close()', 'Slots');)
 [MAIN](javascript:registerPopup({ content:'Silahkan login terlebih dahulu.' });)
 
-![PP](//dsuown9evwz4y.cloudfront.net/Images/providers/PP/vs10txbigbass.jpg?v=20241125)
+![PP](//dsuown9evwz4y.cloudfront.net/Images/providers/PP/vswaysrsm.jpg?v=20241125)
 
-[COBA](javascript:alert('Anda akan bermain versi demo, ini berarti menang/kalah dalam permainan tidak akan mempengaruhi dana/saldo anda.');openPopup('http://demogamesfree-asia.pragmaticplay.net/gs2c/openGame.do?gameSymbol=vs10txbigbass&lang=en&jurisdiction=99&cur=IDR&lobbyUrl=js://window.close()', 'Slots');)
+[COBA](javascript:alert('Anda akan bermain versi demo, ini berarti menang/kalah dalam permainan tidak akan mempengaruhi dana/saldo anda.');openPopup('http://demogamesfree-asia.pragmaticplay.net/gs2c/openGame.do?gameSymbol=vswaysrsm&lang=en&jurisdiction=99&cur=IDR&lobbyUrl=js://window.close()', 'Slots');)
 [MAIN](javascript:registerPopup({ content:'Silahkan login terlebih dahulu.' });)
 
-![PP](//dsuown9evwz4y.cloudfront.net/Images/providers/PP/vs1024mahjpanda.jpg?v=20241125)
+![PP](//dsuown9evwz4y.cloudfront.net/Images/providers/PP/vs10gdchalleng.jpg?v=20241125)
 
-[COBA](javascript:alert('Anda akan bermain versi demo, ini berarti menang/kalah dalam permainan tidak akan mempengaruhi dana/saldo anda.');openPopup('http://demogamesfree-asia.pragmaticplay.net/gs2c/openGame.do?gameSymbol=vs1024mahjpanda&lang=en&jurisdiction=99&cur=IDR&lobbyUrl=js://window.close()', 'Slots');)
+[COBA](javascript:alert('Anda akan bermain versi demo, ini berarti menang/kalah dalam permainan tidak akan mempengaruhi dana/saldo anda.');openPopup('http://demogamesfree-asia.pragmaticplay.net/gs2c/openGame.do?gameSymbol=vs10gdchalleng&lang=en&jurisdiction=99&cur=IDR&lobbyUrl=js://window.close()', 'Slots');)
 [MAIN](javascript:registerPopup({ content:'Silahkan login terlebih dahulu.' });)
 
-![PP](//dsuown9evwz4y.cloudfront.net/Images/providers/PP/vs25xmasparty.jpg?v=20241125)
+![PP](//dsuown9evwz4y.cloudfront.net/Images/providers/PP/vs20msdice.jpg?v=20241125)
 
-[COBA](javascript:alert('Anda akan bermain versi demo, ini berarti menang/kalah dalam permainan tidak akan mempengaruhi dana/saldo anda.');openPopup('http://demogamesfree-asia.pragmaticplay.net/gs2c/openGame.do?gameSymbol=vs25xmasparty&lang=en&jurisdiction=99&cur=IDR&lobbyUrl=js://window.close()', 'Slots');)
+[COBA](javascript:alert('Anda akan bermain versi demo, ini berarti menang/kalah dalam permainan tidak akan mempengaruhi dana/saldo anda.');openPopup('http://demogamesfree-asia.pragmaticplay.net/gs2c/openGame.do?gameSymbol=vs20msdice&lang=en&jurisdiction=99&cur=IDR&lobbyUrl=js://window.close()', 'Slots');)
 [MAIN](javascript:registerPopup({ content:'Silahkan login terlebih dahulu.' });)
 
-![PP](//dsuown9evwz4y.cloudfront.net/Images/providers/PP/vs10bookazteck.jpg?v=20241125)
+![PP](//dsuown9evwz4y.cloudfront.net/Images/providers/PP/vs50pixie.jpg?v=20241125)
 
-[COBA](javascript:alert('Anda akan bermain versi demo, ini berarti menang/kalah dalam permainan tidak akan mempengaruhi dana/saldo anda.');openPopup('http://demogamesfree-asia.pragmaticplay.net/gs2c/openGame.do?gameSymbol=vs10bookazteck&lang=en&jurisdiction=99&cur=IDR&lobbyUrl=js://window.close()', 'Slots');)
+[COBA](javascript:alert('Anda akan bermain versi demo, ini berarti menang/kalah dalam permainan tidak akan mempengaruhi dana/saldo anda.');openPopup('http://demogamesfree-asia.pragmaticplay.net/gs2c/openGame.do?gameSymbol=vs50pixie&lang=en&jurisdiction=99&cur=IDR&lobbyUrl=js://window.close()', 'Slots');)
 [MAIN](javascript:registerPopup({ content:'Silahkan login terlebih dahulu.' });)
 
 ![PGSOFT](//dsuown9evwz4y.cloudfront.net/Images/~normad-alpha/dark-gold/desktop/home/slots/animations/PGSOFT.png?v=20241125)
 
-![PGSOFT](//dsuown9evwz4y.cloudfront.net/Images/providers/PGSOFT/PGSOFT_59.jpg?v=20241125)
+![PGSOFT](//dsuown9evwz4y.cloudfront.net/Images/providers/PGSOFT/PGSOFT_106.jpg?v=20241125)
 
 [MAIN](javascript:registerPopup({ content:'Silahkan login terlebih dahulu.' });)
 
-![PGSOFT](//dsuown9evwz4y.cloudfront.net/Images/providers/PGSOFT/PGSOFT_1695365.jpg?v=20241125)
+![PGSOFT](//dsuown9evwz4y.cloudfront.net/Images/providers/PGSOFT/PGSOFT_1402846.jpg?v=20241125)
 
 [MAIN](javascript:registerPopup({ content:'Silahkan login terlebih dahulu.' });)
 
-![PGSOFT](//dsuown9evwz4y.cloudfront.net/Images/providers/PGSOFT/PGSOFT_1799745.jpg?v=20241125)
+![PGSOFT](//dsuown9evwz4y.cloudfront.net/Images/providers/PGSOFT/PGSOFT_91.jpg?v=20241125)
 
 [MAIN](javascript:registerPopup({ content:'Silahkan login terlebih dahulu.' });)
 
-![PGSOFT](//dsuown9evwz4y.cloudfront.net/Images/providers/PGSOFT/PGSOFT_20.jpg?v=20241125)
+![PGSOFT](//dsuown9evwz4y.cloudfront.net/Images/providers/PGSOFT/PGSOFT_1543462.jpg?v=20241125)
 
 [MAIN](javascript:registerPopup({ content:'Silahkan login terlebih dahulu.' });)
 
-![PGSOFT](//dsuown9evwz4y.cloudfront.net/Images/providers/PGSOFT/PGSOFT_1666445.jpg?v=20241125)
+![PGSOFT](//dsuown9evwz4y.cloudfront.net/Images/providers/PGSOFT/PGSOFT_1368367.jpg?v=20241125)
 
 [MAIN](javascript:registerPopup({ content:'Silahkan login terlebih dahulu.' });)
 
-![PGSOFT](//dsuown9evwz4y.cloudfront.net/Images/providers/PGSOFT/PGSOFT_37.jpg?v=20241125)
+![PGSOFT](//dsuown9evwz4y.cloudfront.net/Images/providers/PGSOFT/PGSOFT_62.jpg?v=20241125)
 
 [MAIN](javascript:registerPopup({ content:'Silahkan login terlebih dahulu.' });)
 
 ![HACKSAW](//dsuown9evwz4y.cloudfront.net/Images/~normad-alpha/dark-gold/desktop/home/slots/animations/HACKSAW.png?v=20241125)
 
-![HACKSAW](//dsuown9evwz4y.cloudfront.net/Images/providers/HACKSAW/HACKSAW_1225.jpg?v=20241125)
+![HACKSAW](//dsuown9evwz4y.cloudfront.net/Images/providers/HACKSAW/HACKSAW_1049.jpg?v=20241125)
 
 [MAIN](javascript:registerPopup({ content:'Silahkan login terlebih dahulu.' });)
 
-![HACKSAW](//dsuown9evwz4y.cloudfront.net/Images/providers/HACKSAW/HACKSAW_1666.jpg?v=20241125)
+![HACKSAW](//dsuown9evwz4y.cloudfront.net/Images/providers/HACKSAW/HACKSAW_1279.jpg?v=20241125)
 
 [MAIN](javascript:registerPopup({ content:'Silahkan login terlebih dahulu.' });)
 
-![HACKSAW](//dsuown9evwz4y.cloudfront.net/Images/providers/HACKSAW/HACKSAW_1620.jpg?v=20241125)
+![HACKSAW](//dsuown9evwz4y.cloudfront.net/Images/providers/HACKSAW/HACKSAW_1422.jpg?v=20241125)
 
 [MAIN](javascript:registerPopup({ content:'Silahkan login terlebih dahulu.' });)
 
-![HACKSAW](//dsuown9evwz4y.cloudfront.net/Images/providers/HACKSAW/HACKSAW_1430.jpg?v=20241125)
+![HACKSAW](//dsuown9evwz4y.cloudfront.net/Images/providers/HACKSAW/HACKSAW_1460.jpg?v=20241125)
 
 [MAIN](javascript:registerPopup({ content:'Silahkan login terlebih dahulu.' });)
 
-![HACKSAW](//dsuown9evwz4y.cloudfront.net/Images/providers/HACKSAW/HACKSAW_1213.jpg?v=20241125)
+![HACKSAW](//dsuown9evwz4y.cloudfront.net/Images/providers/HACKSAW/HACKSAW_1070.jpg?v=20241125)
 
 [MAIN](javascript:registerPopup({ content:'Silahkan login terlebih dahulu.' });)
 
-![HACKSAW](//dsuown9evwz4y.cloudfront.net/Images/providers/HACKSAW/HACKSAW_1066.jpg?v=20241125)
+![HACKSAW](//dsuown9evwz4y.cloudfront.net/Images/providers/HACKSAW/HACKSAW_1081.jpg?v=20241125)
 
 [MAIN](javascript:registerPopup({ content:'Silahkan login terlebih dahulu.' });)
 
 ![MICROGAMING](//dsuown9evwz4y.cloudfront.net/Images/~normad-alpha/dark-gold/desktop/home/slots/animations/MICROGAMING.png?v=20241125)
 
-![MICROGAMING](//dsuown9evwz4y.cloudfront.net/Images/providers/MICROGAMING/SMG_goldBlitzExtreme.jpg?v=20241125)
+![MICROGAMING](//dsuown9evwz4y.cloudfront.net/Images/providers/MICROGAMING/SMG_goldenDragons.jpg?v=20241125)
 
-[COBA](javascript:alert('Anda akan bermain versi demo, ini berarti menang/kalah dalam permainan tidak akan mempengaruhi dana/saldo anda.');openPopup('/free-to-play/MICROGAMING/Desktop/SMG_goldBlitzExtreme', 'Slots');)
+[COBA](javascript:alert('Anda akan bermain versi demo, ini berarti menang/kalah dalam permainan tidak akan mempengaruhi dana/saldo anda.');openPopup('/free-to-play/MICROGAMING/Desktop/SMG_goldenDragons', 'Slots');)
 [MAIN](javascript:registerPopup({ content:'Silahkan login terlebih dahulu.' });)
 
-![MICROGAMING](//dsuown9evwz4y.cloudfront.net/Images/providers/MICROGAMING/SMG_ancientFortunesPoseidonMegaways.jpg?v=20241125)
+![MICROGAMING](//dsuown9evwz4y.cloudfront.net/Images/providers/MICROGAMING/SMG_amazonLostGold.jpg?v=20241125)
 
-[COBA](javascript:alert('Anda akan bermain versi demo, ini berarti menang/kalah dalam permainan tidak akan mempengaruhi dana/saldo anda.');openPopup('/free-to-play/MICROGAMING/Desktop/SMG_ancientFortunesPoseidonMegaways', 'Slots');)
+[COBA](javascript:alert('Anda akan bermain versi demo, ini berarti menang/kalah dalam permainan tidak akan mempengaruhi dana/saldo anda.');openPopup('/free-to-play/MICROGAMING/Desktop/SMG_amazonLostGold', 'Slots');)
 [MAIN](javascript:registerPopup({ content:'Silahkan login terlebih dahulu.' });)
 
-![MICROGAMING](//dsuown9evwz4y.cloudfront.net/Images/providers/MICROGAMING/SMG_dragonDance.jpg?v=20241125)
+![MICROGAMING](//dsuown9evwz4y.cloudfront.net/Images/providers/MICROGAMING/SMG_magicOfSahara.jpg?v=20241125)
 
-[COBA](javascript:alert('Anda akan bermain versi demo, ini berarti menang/kalah dalam permainan tidak akan mempengaruhi dana/saldo anda.');openPopup('/free-to-play/MICROGAMING/Desktop/SMG_dragonDance', 'Slots');)
+[COBA](javascript:alert('Anda akan bermain versi demo, ini berarti menang/kalah dalam permainan tidak akan mempengaruhi dana/saldo anda.');openPopup('/free-to-play/MICROGAMING/Desktop/SMG_magicOfSahara', 'Slots');)
 [MAIN](javascript:registerPopup({ content:'Silahkan login terlebih dahulu.' });)
 
-![MICROGAMING](//dsuown9evwz4y.cloudfront.net/Images/providers/MICROGAMING/SMG_fishEmUp.jpg?v=20241125)
+![MICROGAMING](//dsuown9evwz4y.cloudfront.net/Images/providers/MICROGAMING/SMG_tigersEye.jpg?v=20241125)
 
-[COBA](javascript:alert('Anda akan bermain versi demo, ini berarti menang/kalah dalam permainan tidak akan mempengaruhi dana/saldo anda.');openPopup('/free-to-play/MICROGAMING/Desktop/SMG_fishEmUp', 'Slots');)
+[COBA](javascript:alert('Anda akan bermain versi demo, ini berarti menang/kalah dalam permainan tidak akan mempengaruhi dana/saldo anda.');openPopup('/free-to-play/MICROGAMING/Desktop/SMG_tigersEye', 'Slots');)
 [MAIN](javascript:registerPopup({ content:'Silahkan login terlebih dahulu.' });)
 
-![MICROGAMING](//dsuown9evwz4y.cloudfront.net/Images/providers/MICROGAMING/SMG_reelStrike.jpg?v=20241125)
+![MICROGAMING](//dsuown9evwz4y.cloudfront.net/Images/providers/MICROGAMING/SMG_chestsOfGold.jpg?v=20241125)
 
-[COBA](javascript:alert('Anda akan bermain versi demo, ini berarti menang/kalah dalam permainan tidak akan mempengaruhi dana/saldo anda.');openPopup('/free-to-play/MICROGAMING/Desktop/SMG_reelStrike', 'Slots');)
+[COBA](javascript:alert('Anda akan bermain versi demo, ini berarti menang/kalah dalam permainan tidak akan mempengaruhi dana/saldo anda.');openPopup('/free-to-play/MICROGAMING/Desktop/SMG_chestsOfGold', 'Slots');)
 [MAIN](javascript:registerPopup({ content:'Silahkan login terlebih dahulu.' });)
 
-![MICROGAMING](//dsuown9evwz4y.cloudfront.net/Images/providers/MICROGAMING/SMG_avalon.jpg?v=20241125)
+![MICROGAMING](//dsuown9evwz4y.cloudfront.net/Images/providers/MICROGAMING/SMG_bookOfOz.jpg?v=20241125)
 
-[COBA](javascript:alert('Anda akan bermain versi demo, ini berarti menang/kalah dalam permainan tidak akan mempengaruhi dana/saldo anda.');openPopup('/free-to-play/MICROGAMING/Desktop/SMG_avalon', 'Slots');)
+[COBA](javascript:alert('Anda akan bermain versi demo, ini berarti menang/kalah dalam permainan tidak akan mempengaruhi dana/saldo anda.');openPopup('/free-to-play/MICROGAMING/Desktop/SMG_bookOfOz', 'Slots');)
 [MAIN](javascript:registerPopup({ content:'Silahkan login terlebih dahulu.' });)
 
 ![FATPANDA](//dsuown9evwz4y.cloudfront.net/Images/~normad-alpha/dark-gold/desktop/home/slots/animations/FATPANDA.png?v=20241125)
 
-![FATPANDA](//dsuown9evwz4y.cloudfront.net/Images/providers/FATPANDA/vswayssw.jpg?v=20241125)
-
-[MAIN](javascript:registerPopup({ content:'Silahkan login terlebih dahulu.' });)
-
-![FATPANDA](//dsuown9evwz4y.cloudfront.net/Images/providers/FATPANDA/vs5luckyt1kly.jpg?v=20241125)
-
-[MAIN](javascript:registerPopup({ content:'Silahkan login terlebih dahulu.' });)
-
-![FATPANDA](//dsuown9evwz4y.cloudfront.net/Images/providers/FATPANDA/vs5jellyc.jpg?v=20241125)
-
-[MAIN](javascript:registerPopup({ content:'Silahkan login terlebih dahulu.' });)
-
-![FATPANDA](//dsuown9evwz4y.cloudfront.net/Images/providers/FATPANDA/vs5luckydogly.jpg?v=20241125)
+![FATPANDA](//dsuown9evwz4y.cloudfront.net/Images/providers/FATPANDA/vs5luckytigly.jpg?v=20241125)
 
 [MAIN](javascript:registerPopup({ content:'Silahkan login terlebih dahulu.' });)
 
@@ -538,88 +528,95 @@ PEMENANG MESIN SLOT
 
 [MAIN](javascript:registerPopup({ content:'Silahkan login terlebih dahulu.' });)
 
-![FATPANDA](//dsuown9evwz4y.cloudfront.net/Images/providers/FATPANDA/vs5luckyphnly.jpg?v=20241125)
+![FATPANDA](//dsuown9evwz4y.cloudfront.net/Images/providers/FATPANDA/vs5luckymly.jpg?v=20241125)
+
+[MAIN](javascript:registerPopup({ content:'Silahkan login terlebih dahulu.' });)
+
+![FATPANDA](//dsuown9evwz4y.cloudfront.net/Images/providers/FATPANDA/vs1dragon888.jpg?v=20241125)
+
+[MAIN](javascript:registerPopup({ content:'Silahkan login terlebih dahulu.' });)
+
+![FATPANDA](//dsuown9evwz4y.cloudfront.net/Images/providers/FATPANDA/vs5luckyt1kly.jpg?v=20241125)
+
+[MAIN](javascript:registerPopup({ content:'Silahkan login terlebih dahulu.' });)
+
+![FATPANDA](//dsuown9evwz4y.cloudfront.net/Images/providers/FATPANDA/vs10forwildly.jpg?v=20241125)
 
 [MAIN](javascript:registerPopup({ content:'Silahkan login terlebih dahulu.' });)
 
 ![NOLIMITCITY](//dsuown9evwz4y.cloudfront.net/Images/~normad-alpha/dark-gold/desktop/home/slots/animations/NOLIMITCITY.png?v=20241125)
 
-![NOLIMITCITY](//dsuown9evwz4y.cloudfront.net/Images/providers/NOLIMITCITY/roadkill00000000.jpg?v=20241125)
+![NOLIMITCITY](//dsuown9evwz4y.cloudfront.net/Images/providers/NOLIMITCITY/monkeysgold00000.jpg?v=20241125)
 
 [MAIN](javascript:registerPopup({ content:'Silahkan login terlebih dahulu.' });)
 
-![NOLIMITCITY](//dsuown9evwz4y.cloudfront.net/Images/providers/NOLIMITCITY/therave000000000.jpg?v=20241125)
+![NOLIMITCITY](//dsuown9evwz4y.cloudfront.net/Images/providers/NOLIMITCITY/eastvswest000000.jpg?v=20241125)
 
 [MAIN](javascript:registerPopup({ content:'Silahkan login terlebih dahulu.' });)
 
-![NOLIMITCITY](//dsuown9evwz4y.cloudfront.net/Images/providers/NOLIMITCITY/bushidoways00000.jpg?v=20241125)
+![NOLIMITCITY](//dsuown9evwz4y.cloudfront.net/Images/providers/NOLIMITCITY/infectious500000.jpg?v=20241125)
 
 [MAIN](javascript:registerPopup({ content:'Silahkan login terlebih dahulu.' });)
 
-![NOLIMITCITY](//dsuown9evwz4y.cloudfront.net/Images/providers/NOLIMITCITY/blooddiamond0000.jpg?v=20241125)
+![NOLIMITCITY](//dsuown9evwz4y.cloudfront.net/Images/providers/NOLIMITCITY/duckhunters00000.jpg?v=20241125)
 
 [MAIN](javascript:registerPopup({ content:'Silahkan login terlebih dahulu.' });)
 
-![NOLIMITCITY](//dsuown9evwz4y.cloudfront.net/Images/providers/NOLIMITCITY/immortalfruits00.jpg?v=20241125)
+![NOLIMITCITY](//dsuown9evwz4y.cloudfront.net/Images/providers/NOLIMITCITY/payday0000000000.jpg?v=20241125)
 
 [MAIN](javascript:registerPopup({ content:'Silahkan login terlebih dahulu.' });)
 
-![NOLIMITCITY](//dsuown9evwz4y.cloudfront.net/Images/providers/NOLIMITCITY/thor000000000000.jpg?v=20241125)
+![NOLIMITCITY](//dsuown9evwz4y.cloudfront.net/Images/providers/NOLIMITCITY/harlequin0000000.jpg?v=20241125)
 
 [MAIN](javascript:registerPopup({ content:'Silahkan login terlebih dahulu.' });)
 
 ![JILI](//dsuown9evwz4y.cloudfront.net/Images/~normad-alpha/dark-gold/desktop/home/slots/animations/JILI.png?v=20241125)
 
-![JILI](//dsuown9evwz4y.cloudfront.net/Images/providers/JILI/JILI_43.jpg?v=20241125)
+![JILI](//dsuown9evwz4y.cloudfront.net/Images/providers/JILI/JILI_259.jpg?v=20241125)
 
-[COBA](javascript:alert('Anda akan bermain versi demo, ini berarti menang/kalah dalam permainan tidak akan mempengaruhi dana/saldo anda.');openPopup('http://jiligames.com/plusplayer/PlusTrial/43/id-ID', 'Slots');)
+[COBA](javascript:alert('Anda akan bermain versi demo, ini berarti menang/kalah dalam permainan tidak akan mempengaruhi dana/saldo anda.');openPopup('http://jiligames.com/plusplayer/PlusTrial/259/id-ID', 'Slots');)
 [MAIN](javascript:registerPopup({ content:'Silahkan login terlebih dahulu.' });)
 
-![JILI](//dsuown9evwz4y.cloudfront.net/Images/providers/JILI/JILI_239.jpg?v=20241125)
+![JILI](//dsuown9evwz4y.cloudfront.net/Images/providers/JILI/JILI_85.jpg?v=20241125)
 
-[COBA](javascript:alert('Anda akan bermain versi demo, ini berarti menang/kalah dalam permainan tidak akan mempengaruhi dana/saldo anda.');openPopup('http://jiligames.com/plusplayer/PlusTrial/239/id-ID', 'Slots');)
+[COBA](javascript:alert('Anda akan bermain versi demo, ini berarti menang/kalah dalam permainan tidak akan mempengaruhi dana/saldo anda.');openPopup('http://jiligames.com/plusplayer/PlusTrial/85/id-ID', 'Slots');)
 [MAIN](javascript:registerPopup({ content:'Silahkan login terlebih dahulu.' });)
 
-![JILI](//dsuown9evwz4y.cloudfront.net/Images/providers/JILI/JILI_379.jpg?v=20241125)
+![JILI](//dsuown9evwz4y.cloudfront.net/Images/providers/JILI/JILI_40.jpg?v=20241125)
 
-[COBA](javascript:alert('Anda akan bermain versi demo, ini berarti menang/kalah dalam permainan tidak akan mempengaruhi dana/saldo anda.');openPopup('http://jiligames.com/plusplayer/PlusTrial/379/id-ID', 'Slots');)
+[COBA](javascript:alert('Anda akan bermain versi demo, ini berarti menang/kalah dalam permainan tidak akan mempengaruhi dana/saldo anda.');openPopup('http://jiligames.com/plusplayer/PlusTrial/40/id-ID', 'Slots');)
 [MAIN](javascript:registerPopup({ content:'Silahkan login terlebih dahulu.' });)
 
-![JILI](//dsuown9evwz4y.cloudfront.net/Images/providers/JILI/JILI_181.jpg?v=20241125)
+![JILI](//dsuown9evwz4y.cloudfront.net/Images/providers/JILI/JILI_9.jpg?v=20241125)
 
-[COBA](javascript:alert('Anda akan bermain versi demo, ini berarti menang/kalah dalam permainan tidak akan mempengaruhi dana/saldo anda.');openPopup('http://jiligames.com/plusplayer/PlusTrial/181/id-ID', 'Slots');)
+[COBA](javascript:alert('Anda akan bermain versi demo, ini berarti menang/kalah dalam permainan tidak akan mempengaruhi dana/saldo anda.');openPopup('http://jiligames.com/plusplayer/PlusTrial/9/id-ID', 'Slots');)
 [MAIN](javascript:registerPopup({ content:'Silahkan login terlebih dahulu.' });)
 
-![JILI](//dsuown9evwz4y.cloudfront.net/Images/providers/JILI/JILI_109.jpg?v=20241125)
+![JILI](//dsuown9evwz4y.cloudfront.net/Images/providers/JILI/JILI_226.jpg?v=20241125)
 
-[COBA](javascript:alert('Anda akan bermain versi demo, ini berarti menang/kalah dalam permainan tidak akan mempengaruhi dana/saldo anda.');openPopup('http://jiligames.com/plusplayer/PlusTrial/109/id-ID', 'Slots');)
+[COBA](javascript:alert('Anda akan bermain versi demo, ini berarti menang/kalah dalam permainan tidak akan mempengaruhi dana/saldo anda.');openPopup('http://jiligames.com/plusplayer/PlusTrial/226/id-ID', 'Slots');)
 [MAIN](javascript:registerPopup({ content:'Silahkan login terlebih dahulu.' });)
 
-![JILI](//dsuown9evwz4y.cloudfront.net/Images/providers/JILI/JILI_180.jpg?v=20241125)
+![JILI](//dsuown9evwz4y.cloudfront.net/Images/providers/JILI/JILI_47.jpg?v=20241125)
 
-[COBA](javascript:alert('Anda akan bermain versi demo, ini berarti menang/kalah dalam permainan tidak akan mempengaruhi dana/saldo anda.');openPopup('http://jiligames.com/plusplayer/PlusTrial/180/id-ID', 'Slots');)
+[COBA](javascript:alert('Anda akan bermain versi demo, ini berarti menang/kalah dalam permainan tidak akan mempengaruhi dana/saldo anda.');openPopup('http://jiligames.com/plusplayer/PlusTrial/47/id-ID', 'Slots');)
 [MAIN](javascript:registerPopup({ content:'Silahkan login terlebih dahulu.' });)
 
 ![HABANERO](//dsuown9evwz4y.cloudfront.net/Images/~normad-alpha/dark-gold/desktop/home/slots/animations/HABANERO.png?v=20241125)
 
-![HABANERO](//dsuown9evwz4y.cloudfront.net/Images/providers/HABANERO/SGChristmasGiftRush.jpg?v=20241125)
+![HABANERO](//dsuown9evwz4y.cloudfront.net/Images/providers/HABANERO/SGQueenOfQueens1024.jpg?v=20241125)
 
-[COBA](javascript:alert('Anda akan bermain versi demo, ini berarti menang/kalah dalam permainan tidak akan mempengaruhi dana/saldo anda.');openPopup('https://app-a.ply-ldr-rfo6v4aqd6cqw84z.com/play?brandid=825cc3ca-3cb4-ee11-b660-6045bd5af406&keyname=SGChristmasGiftRush&locale=id-ID&mode=fun', 'Slots');)
+[COBA](javascript:alert('Anda akan bermain versi demo, ini berarti menang/kalah dalam permainan tidak akan mempengaruhi dana/saldo anda.');openPopup('https://app-a.ply-ldr-rfo6v4aqd6cqw84z.com/play?brandid=825cc3ca-3cb4-ee11-b660-6045bd5af406&keyname=SGQueenOfQueens1024&locale=id-ID&mode=fun', 'Slots');)
 [MAIN](javascript:registerPopup({ content:'Silahkan login terlebih dahulu.' });)
 
-![HABANERO](//dsuown9evwz4y.cloudfront.net/Images/providers/HABANERO/SGNuwa.jpg?v=20241125)
+![HABANERO](//dsuown9evwz4y.cloudfront.net/Images/providers/HABANERO/SGDoubleODollars.jpg?v=20241125)
 
-[COBA](javascript:alert('Anda akan bermain versi demo, ini berarti menang/kalah dalam permainan tidak akan mempengaruhi dana/saldo anda.');openPopup('https://app-a.ply-ldr-rfo6v4aqd6cqw84z.com/play?brandid=825cc3ca-3cb4-ee11-b660-6045bd5af406&keyname=SGNuwa&locale=id-ID&mode=fun', 'Slots');)
+[COBA](javascript:alert('Anda akan bermain versi demo, ini berarti menang/kalah dalam permainan tidak akan mempengaruhi dana/saldo anda.');openPopup('https://app-a.ply-ldr-rfo6v4aqd6cqw84z.com/play?brandid=825cc3ca-3cb4-ee11-b660-6045bd5af406&keyname=SGDoubleODollars&locale=id-ID&mode=fun', 'Slots');)
 [MAIN](javascript:registerPopup({ content:'Silahkan login terlebih dahulu.' });)
 
-![HABANERO](//dsuown9evwz4y.cloudfront.net/Images/providers/HABANERO/SGNewYearsBash.jpg?v=20241125)
+![HABANERO](//dsuown9evwz4y.cloudfront.net/Images/providers/HABANERO/SGOceansCall.jpg?v=20241125)
 
-[COBA](javascript:alert('Anda akan bermain versi demo, ini berarti menang/kalah dalam permainan tidak akan mempengaruhi dana/saldo anda.');openPopup('https://app-a.ply-ldr-rfo6v4aqd6cqw84z.com/play?brandid=825cc3ca-3cb4-ee11-b660-6045bd5af406&keyname=SGNewYearsBash&locale=id-ID&mode=fun', 'Slots');)
-[MAIN](javascript:registerPopup({ content:'Silahkan login terlebih dahulu.' });)
-
-![HABANERO](//dsuown9evwz4y.cloudfront.net/Images/providers/HABANERO/SGHappiestChristmasTree.jpg?v=20241125)
-
-[COBA](javascript:alert('Anda akan bermain versi demo, ini berarti menang/kalah dalam permainan tidak akan mempengaruhi dana/saldo anda.');openPopup('https://app-a.ply-ldr-rfo6v4aqd6cqw84z.com/play?brandid=825cc3ca-3cb4-ee11-b660-6045bd5af406&keyname=SGHappiestChristmasTree&locale=id-ID&mode=fun', 'Slots');)
+[COBA](javascript:alert('Anda akan bermain versi demo, ini berarti menang/kalah dalam permainan tidak akan mempengaruhi dana/saldo anda.');openPopup('https://app-a.ply-ldr-rfo6v4aqd6cqw84z.com/play?brandid=825cc3ca-3cb4-ee11-b660-6045bd5af406&keyname=SGOceansCall&locale=id-ID&mode=fun', 'Slots');)
 [MAIN](javascript:registerPopup({ content:'Silahkan login terlebih dahulu.' });)
 
 ![HABANERO](//dsuown9evwz4y.cloudfront.net/Images/providers/HABANERO/SGKnockoutFootballRush.jpg?v=20241125)
@@ -627,96 +624,101 @@ PEMENANG MESIN SLOT
 [COBA](javascript:alert('Anda akan bermain versi demo, ini berarti menang/kalah dalam permainan tidak akan mempengaruhi dana/saldo anda.');openPopup('https://app-a.ply-ldr-rfo6v4aqd6cqw84z.com/play?brandid=825cc3ca-3cb4-ee11-b660-6045bd5af406&keyname=SGKnockoutFootballRush&locale=id-ID&mode=fun', 'Slots');)
 [MAIN](javascript:registerPopup({ content:'Silahkan login terlebih dahulu.' });)
 
-![HABANERO](//dsuown9evwz4y.cloudfront.net/Images/providers/HABANERO/SGNaughtyWukong.jpg?v=20241125)
+![HABANERO](//dsuown9evwz4y.cloudfront.net/Images/providers/HABANERO/SGTheBigDealDeluxe.jpg?v=20241125)
 
-[COBA](javascript:alert('Anda akan bermain versi demo, ini berarti menang/kalah dalam permainan tidak akan mempengaruhi dana/saldo anda.');openPopup('https://app-a.ply-ldr-rfo6v4aqd6cqw84z.com/play?brandid=825cc3ca-3cb4-ee11-b660-6045bd5af406&keyname=SGNaughtyWukong&locale=id-ID&mode=fun', 'Slots');)
+[COBA](javascript:alert('Anda akan bermain versi demo, ini berarti menang/kalah dalam permainan tidak akan mempengaruhi dana/saldo anda.');openPopup('https://app-a.ply-ldr-rfo6v4aqd6cqw84z.com/play?brandid=825cc3ca-3cb4-ee11-b660-6045bd5af406&keyname=SGTheBigDealDeluxe&locale=id-ID&mode=fun', 'Slots');)
+[MAIN](javascript:registerPopup({ content:'Silahkan login terlebih dahulu.' });)
+
+![HABANERO](//dsuown9evwz4y.cloudfront.net/Images/providers/HABANERO/SGEgyptianDreamsDeluxe.jpg?v=20241125)
+
+[COBA](javascript:alert('Anda akan bermain versi demo, ini berarti menang/kalah dalam permainan tidak akan mempengaruhi dana/saldo anda.');openPopup('https://app-a.ply-ldr-rfo6v4aqd6cqw84z.com/play?brandid=825cc3ca-3cb4-ee11-b660-6045bd5af406&keyname=SGEgyptianDreamsDeluxe&locale=id-ID&mode=fun', 'Slots');)
 [MAIN](javascript:registerPopup({ content:'Silahkan login terlebih dahulu.' });)
 
 ![SPADEGAMING](//dsuown9evwz4y.cloudfront.net/Images/~normad-alpha/dark-gold/desktop/home/slots/animations/SPADEGAMING.png?v=20241125)
 
-![SPADEGAMING](//dsuown9evwz4y.cloudfront.net/Images/providers/SPADEGAMING/S-LY02.jpg?v=20241125)
+![SPADEGAMING](//dsuown9evwz4y.cloudfront.net/Images/providers/SPADEGAMING/S-RR01.jpg?v=20241125)
 
 [MAIN](javascript:registerPopup({ content:'Silahkan login terlebih dahulu.' });)
 
-![SPADEGAMING](//dsuown9evwz4y.cloudfront.net/Images/providers/SPADEGAMING/S-SP04.jpg?v=20241125)
+![SPADEGAMING](//dsuown9evwz4y.cloudfront.net/Images/providers/SPADEGAMING/S-RM01.jpg?v=20241125)
 
 [MAIN](javascript:registerPopup({ content:'Silahkan login terlebih dahulu.' });)
 
-![SPADEGAMING](//dsuown9evwz4y.cloudfront.net/Images/providers/SPADEGAMING/S-ML01.jpg?v=20241125)
+![SPADEGAMING](//dsuown9evwz4y.cloudfront.net/Images/providers/SPADEGAMING/S-HF01.jpg?v=20241125)
 
 [MAIN](javascript:registerPopup({ content:'Silahkan login terlebih dahulu.' });)
 
-![SPADEGAMING](//dsuown9evwz4y.cloudfront.net/Images/providers/SPADEGAMING/S-VB01.jpg?v=20241125)
+![SPADEGAMING](//dsuown9evwz4y.cloudfront.net/Images/providers/SPADEGAMING/S-FF01.jpg?v=20241125)
 
 [MAIN](javascript:registerPopup({ content:'Silahkan login terlebih dahulu.' });)
 
-![SPADEGAMING](//dsuown9evwz4y.cloudfront.net/Images/providers/SPADEGAMING/S-GP01.jpg?v=20241125)
+![SPADEGAMING](//dsuown9evwz4y.cloudfront.net/Images/providers/SPADEGAMING/S-FM04.jpg?v=20241125)
 
 [MAIN](javascript:registerPopup({ content:'Silahkan login terlebih dahulu.' });)
 
-![SPADEGAMING](//dsuown9evwz4y.cloudfront.net/Images/providers/SPADEGAMING/S-HQ01.jpg?v=20241125)
+![SPADEGAMING](//dsuown9evwz4y.cloudfront.net/Images/providers/SPADEGAMING/S-GW01.jpg?v=20241125)
 
 [MAIN](javascript:registerPopup({ content:'Silahkan login terlebih dahulu.' });)
 
 ![FASTSPIN](//dsuown9evwz4y.cloudfront.net/Images/~normad-alpha/dark-gold/desktop/home/slots/animations/FASTSPIN.png?v=20241125)
 
-![FASTSPIN](//dsuown9evwz4y.cloudfront.net/Images/providers/FASTSPIN/S_FL04.jpg?v=20241125)
+![FASTSPIN](//dsuown9evwz4y.cloudfront.net/Images/providers/FASTSPIN/S_LO01.jpg?v=20241125)
 
 [MAIN](javascript:registerPopup({ content:'Silahkan login terlebih dahulu.' });)
 
-![FASTSPIN](//dsuown9evwz4y.cloudfront.net/Images/providers/FASTSPIN/S_GE01.jpg?v=20241125)
+![FASTSPIN](//dsuown9evwz4y.cloudfront.net/Images/providers/FASTSPIN/S_VB01.jpg?v=20241125)
 
 [MAIN](javascript:registerPopup({ content:'Silahkan login terlebih dahulu.' });)
 
-![FASTSPIN](//dsuown9evwz4y.cloudfront.net/Images/providers/FASTSPIN/S_MB03.jpg?v=20241125)
+![FASTSPIN](//dsuown9evwz4y.cloudfront.net/Images/providers/FASTSPIN/S_MT01.jpg?v=20241125)
 
 [MAIN](javascript:registerPopup({ content:'Silahkan login terlebih dahulu.' });)
 
-![FASTSPIN](//dsuown9evwz4y.cloudfront.net/Images/providers/FASTSPIN/S-WM04.jpg?v=20241125)
+![FASTSPIN](//dsuown9evwz4y.cloudfront.net/Images/providers/FASTSPIN/S_FF02.jpg?v=20241125)
 
 [MAIN](javascript:registerPopup({ content:'Silahkan login terlebih dahulu.' });)
 
-![FASTSPIN](//dsuown9evwz4y.cloudfront.net/Images/providers/FASTSPIN/S_HF02.jpg?v=20241125)
+![FASTSPIN](//dsuown9evwz4y.cloudfront.net/Images/providers/FASTSPIN/S_BW01.jpg?v=20241125)
 
 [MAIN](javascript:registerPopup({ content:'Silahkan login terlebih dahulu.' });)
 
-![FASTSPIN](//dsuown9evwz4y.cloudfront.net/Images/providers/FASTSPIN/S_SF02.jpg?v=20241125)
+![FASTSPIN](//dsuown9evwz4y.cloudfront.net/Images/providers/FASTSPIN/S_TN01.jpg?v=20241125)
 
 [MAIN](javascript:registerPopup({ content:'Silahkan login terlebih dahulu.' });)
 
 ![JOKER](//dsuown9evwz4y.cloudfront.net/Images/~normad-alpha/dark-gold/desktop/home/slots/animations/JOKER.png?v=20241125)
 
-![JOKER](//dsuown9evwz4y.cloudfront.net/Images/providers/JOKER/9w6aa6u5xbhzh.jpg?v=20241125)
+![JOKER](//dsuown9evwz4y.cloudfront.net/Images/providers/JOKER/satj3o6ya8dcq.jpg?v=20241125)
 
 [MAIN](javascript:registerPopup({ content:'Silahkan login terlebih dahulu.' });)
 
-![JOKER](//dsuown9evwz4y.cloudfront.net/Images/providers/JOKER/u17q53q45xcp1.jpg?v=20241125)
+![JOKER](//dsuown9evwz4y.cloudfront.net/Images/providers/JOKER/1bwmp4xq79sq4.jpg?v=20241125)
 
 [MAIN](javascript:registerPopup({ content:'Silahkan login terlebih dahulu.' });)
 
-![JOKER](//dsuown9evwz4y.cloudfront.net/Images/providers/JOKER/9upe5bm4xph81.jpg?v=20241125)
+![JOKER](//dsuown9evwz4y.cloudfront.net/Images/providers/JOKER/ne4gq55cpitgg.jpg?v=20241125)
 
 [MAIN](javascript:registerPopup({ content:'Silahkan login terlebih dahulu.' });)
 
-![JOKER](//dsuown9evwz4y.cloudfront.net/Images/providers/JOKER/wykepsq659qp4.jpg?v=20241125)
+![JOKER](//dsuown9evwz4y.cloudfront.net/Images/providers/JOKER/w4ypzw6o48mpq.jpg?v=20241125)
 
 [MAIN](javascript:registerPopup({ content:'Silahkan login terlebih dahulu.' });)
 
-![JOKER](//dsuown9evwz4y.cloudfront.net/Images/providers/JOKER/cz3wgrounyetc.jpg?v=20241125)
+![JOKER](//dsuown9evwz4y.cloudfront.net/Images/providers/JOKER/ape6dxf7sk35y.jpg?v=20241125)
 
 [MAIN](javascript:registerPopup({ content:'Silahkan login terlebih dahulu.' });)
 
-![JOKER](//dsuown9evwz4y.cloudfront.net/Images/providers/JOKER/jbzd1cjsgh4dk.jpg?v=20241125)
+![JOKER](//dsuown9evwz4y.cloudfront.net/Images/providers/JOKER/5ii9zgw5unc3h.jpg?v=20241125)
 
 [MAIN](javascript:registerPopup({ content:'Silahkan login terlebih dahulu.' });)
 
 ![OCTOPLAY](//dsuown9evwz4y.cloudfront.net/Images/~normad-alpha/dark-gold/desktop/home/slots/animations/OCTOPLAY.png?v=20241125)
 
-![OCTOPLAY](//dsuown9evwz4y.cloudfront.net/Images/providers/OCTOPLAY/OCTOPLAY_103092.jpg?v=20241125)
+![OCTOPLAY](//dsuown9evwz4y.cloudfront.net/Images/providers/OCTOPLAY/OCTOPLAY_103054.jpg?v=20241125)
 
 [MAIN](javascript:registerPopup({ content:'Silahkan login terlebih dahulu.' });)
 
-![OCTOPLAY](//dsuown9evwz4y.cloudfront.net/Images/providers/OCTOPLAY/OCTOPLAY_103051.jpg?v=20241125)
+![OCTOPLAY](//dsuown9evwz4y.cloudfront.net/Images/providers/OCTOPLAY/OCTOPLAY_103065.jpg?v=20241125)
 
 [MAIN](javascript:registerPopup({ content:'Silahkan login terlebih dahulu.' });)
 
@@ -724,107 +726,117 @@ PEMENANG MESIN SLOT
 
 [MAIN](javascript:registerPopup({ content:'Silahkan login terlebih dahulu.' });)
 
-![OCTOPLAY](//dsuown9evwz4y.cloudfront.net/Images/providers/OCTOPLAY/OCTOPLAY_103088.jpg?v=20241125)
+![OCTOPLAY](//dsuown9evwz4y.cloudfront.net/Images/providers/OCTOPLAY/OCTOPLAY_103095.jpg?v=20241125)
 
 [MAIN](javascript:registerPopup({ content:'Silahkan login terlebih dahulu.' });)
 
-![OCTOPLAY](//dsuown9evwz4y.cloudfront.net/Images/providers/OCTOPLAY/OCTOPLAY_103020.jpg?v=20241125)
+![OCTOPLAY](//dsuown9evwz4y.cloudfront.net/Images/providers/OCTOPLAY/OCTOPLAY_103063.jpg?v=20241125)
 
 [MAIN](javascript:registerPopup({ content:'Silahkan login terlebih dahulu.' });)
 
-![OCTOPLAY](//dsuown9evwz4y.cloudfront.net/Images/providers/OCTOPLAY/OCTOPLAY_103096.jpg?v=20241125)
+![OCTOPLAY](//dsuown9evwz4y.cloudfront.net/Images/providers/OCTOPLAY/OCTOPLAY_103026.jpg?v=20241125)
 
 [MAIN](javascript:registerPopup({ content:'Silahkan login terlebih dahulu.' });)
 
 ![SMARTSOFT](//dsuown9evwz4y.cloudfront.net/Images/~normad-alpha/dark-gold/desktop/home/slots/animations/SMARTSOFT.png?v=20241125)
 
-![SMARTSOFT](//dsuown9evwz4y.cloudfront.net/Images/providers/SMARTSOFT/Slots_BlazingHot.jpg?v=20241125)
+![SMARTSOFT](//dsuown9evwz4y.cloudfront.net/Images/providers/SMARTSOFT/Slots_BlazingHot10.jpg?v=20241125)
 
 [MAIN](javascript:registerPopup({ content:'Silahkan login terlebih dahulu.' });)
 
-![SMARTSOFT](//dsuown9evwz4y.cloudfront.net/Images/providers/SMARTSOFT/JetX_JetX.jpg?v=20241125)
+![SMARTSOFT](//dsuown9evwz4y.cloudfront.net/Images/providers/SMARTSOFT/Slots_SugarFiesta.jpg?v=20241125)
 
 [MAIN](javascript:registerPopup({ content:'Silahkan login terlebih dahulu.' });)
 
-![SMARTSOFT](//dsuown9evwz4y.cloudfront.net/Images/providers/SMARTSOFT/Slots_MultiHotWays.jpg?v=20241125)
+![SMARTSOFT](//dsuown9evwz4y.cloudfront.net/Images/providers/SMARTSOFT/Slots_Vampires.jpg?v=20241125)
 
 [MAIN](javascript:registerPopup({ content:'Silahkan login terlebih dahulu.' });)
 
-![SMARTSOFT](//dsuown9evwz4y.cloudfront.net/Images/providers/SMARTSOFT/XGames_JetX3.jpg?v=20241125)
+![SMARTSOFT](//dsuown9evwz4y.cloudfront.net/Images/providers/SMARTSOFT/Slots_Samurai.jpg?v=20241125)
 
 [MAIN](javascript:registerPopup({ content:'Silahkan login terlebih dahulu.' });)
 
-![SMARTSOFT](//dsuown9evwz4y.cloudfront.net/Images/providers/SMARTSOFT/Games_PlinkoX.jpg?v=20241125)
+![SMARTSOFT](//dsuown9evwz4y.cloudfront.net/Images/providers/SMARTSOFT/Slots_FortuneCarnivalBonanza.jpg?v=20241125)
 
 [MAIN](javascript:registerPopup({ content:'Silahkan login terlebih dahulu.' });)
 
-![SMARTSOFT](//dsuown9evwz4y.cloudfront.net/Images/providers/SMARTSOFT/Slots_GeniesBonanza.jpg?v=20241125)
+![SMARTSOFT](//dsuown9evwz4y.cloudfront.net/Images/providers/SMARTSOFT/Games_MineIsland.jpg?v=20241125)
 
 [MAIN](javascript:registerPopup({ content:'Silahkan login terlebih dahulu.' });)
 
 ![ADVANTPLAY](//dsuown9evwz4y.cloudfront.net/Images/~normad-alpha/dark-gold/desktop/home/slots/animations/ADVANTPLAY.png?v=20241125)
-
-![ADVANTPLAY](//dsuown9evwz4y.cloudfront.net/Images/providers/ADVANTPLAY/AdvantPlay_10018.jpg?v=20241125)
-
-[COBA](javascript:alert('Anda akan bermain versi demo, ini berarti menang/kalah dalam permainan tidak akan mempengaruhi dana/saldo anda.');openPopup('https://fun.pypc.net/web/fun/funplay?game=10018', 'Slots');)
-[MAIN](javascript:registerPopup({ content:'Silahkan login terlebih dahulu.' });)
-
-![ADVANTPLAY](//dsuown9evwz4y.cloudfront.net/Images/providers/ADVANTPLAY/AdvantPlay_10002.jpg?v=20241125)
-
-[COBA](javascript:alert('Anda akan bermain versi demo, ini berarti menang/kalah dalam permainan tidak akan mempengaruhi dana/saldo anda.');openPopup('https://fun.pypc.net/web/fun/funplay?game=10002', 'Slots');)
-[MAIN](javascript:registerPopup({ content:'Silahkan login terlebih dahulu.' });)
-
-![ADVANTPLAY](//dsuown9evwz4y.cloudfront.net/Images/providers/ADVANTPLAY/AdvantPlay_10035.jpg?v=20241125)
-
-[COBA](javascript:alert('Anda akan bermain versi demo, ini berarti menang/kalah dalam permainan tidak akan mempengaruhi dana/saldo anda.');openPopup('https://fun.pypc.net/web/fun/funplay?game=10035', 'Slots');)
-[MAIN](javascript:registerPopup({ content:'Silahkan login terlebih dahulu.' });)
-
-![ADVANTPLAY](//dsuown9evwz4y.cloudfront.net/Images/providers/ADVANTPLAY/Advantplay_10056.jpg?v=20241125)
-
-[COBA](javascript:alert('Anda akan bermain versi demo, ini berarti menang/kalah dalam permainan tidak akan mempengaruhi dana/saldo anda.');openPopup('https://fun.pypc.net/web/fun/funplay?game=10056', 'Slots');)
-[MAIN](javascript:registerPopup({ content:'Silahkan login terlebih dahulu.' });)
 
 ![ADVANTPLAY](//dsuown9evwz4y.cloudfront.net/Images/providers/ADVANTPLAY/Advantplay_10050.jpg?v=20241125)
 
 [COBA](javascript:alert('Anda akan bermain versi demo, ini berarti menang/kalah dalam permainan tidak akan mempengaruhi dana/saldo anda.');openPopup('https://fun.pypc.net/web/fun/funplay?game=10050', 'Slots');)
 [MAIN](javascript:registerPopup({ content:'Silahkan login terlebih dahulu.' });)
 
-![ADVANTPLAY](//dsuown9evwz4y.cloudfront.net/Images/providers/ADVANTPLAY/ADVANTPLAY_10064.jpg?v=20241125)
+![ADVANTPLAY](//dsuown9evwz4y.cloudfront.net/Images/providers/ADVANTPLAY/AdvantPlay_10015.jpg?v=20241125)
 
-[COBA](javascript:alert('Anda akan bermain versi demo, ini berarti menang/kalah dalam permainan tidak akan mempengaruhi dana/saldo anda.');openPopup('https://fun.pypc.net/web/fun/funplay?game=10064', 'Slots');)
+[COBA](javascript:alert('Anda akan bermain versi demo, ini berarti menang/kalah dalam permainan tidak akan mempengaruhi dana/saldo anda.');openPopup('https://fun.pypc.net/web/fun/funplay?game=10015', 'Slots');)
+[MAIN](javascript:registerPopup({ content:'Silahkan login terlebih dahulu.' });)
+
+![ADVANTPLAY](//dsuown9evwz4y.cloudfront.net/Images/providers/ADVANTPLAY/AdvantPlay_10038.jpg?v=20241125)
+
+[COBA](javascript:alert('Anda akan bermain versi demo, ini berarti menang/kalah dalam permainan tidak akan mempengaruhi dana/saldo anda.');openPopup('https://fun.pypc.net/web/fun/funplay?game=10038', 'Slots');)
+[MAIN](javascript:registerPopup({ content:'Silahkan login terlebih dahulu.' });)
+
+![ADVANTPLAY](//dsuown9evwz4y.cloudfront.net/Images/providers/ADVANTPLAY/AdvantPlay_10036.jpg?v=20241125)
+
+[COBA](javascript:alert('Anda akan bermain versi demo, ini berarti menang/kalah dalam permainan tidak akan mempengaruhi dana/saldo anda.');openPopup('https://fun.pypc.net/web/fun/funplay?game=10036', 'Slots');)
+[MAIN](javascript:registerPopup({ content:'Silahkan login terlebih dahulu.' });)
+
+![ADVANTPLAY](//dsuown9evwz4y.cloudfront.net/Images/providers/ADVANTPLAY/AdvantPlay_10039.jpg?v=20241125)
+
+[COBA](javascript:alert('Anda akan bermain versi demo, ini berarti menang/kalah dalam permainan tidak akan mempengaruhi dana/saldo anda.');openPopup('https://fun.pypc.net/web/fun/funplay?game=10039', 'Slots');)
+[MAIN](javascript:registerPopup({ content:'Silahkan login terlebih dahulu.' });)
+
+![ADVANTPLAY](//dsuown9evwz4y.cloudfront.net/Images/providers/ADVANTPLAY/AdvantPlay_10027.jpg?v=20241125)
+
+[COBA](javascript:alert('Anda akan bermain versi demo, ini berarti menang/kalah dalam permainan tidak akan mempengaruhi dana/saldo anda.');openPopup('https://fun.pypc.net/web/fun/funplay?game=10027', 'Slots');)
 [MAIN](javascript:registerPopup({ content:'Silahkan login terlebih dahulu.' });)
 
 ![SBOFUNKYGAME](//dsuown9evwz4y.cloudfront.net/Images/~normad-alpha/dark-gold/desktop/home/slots/animations/SBOFUNKYGAME.png?v=20241125)
 
-![SBOFUNKYGAME](//dsuown9evwz4y.cloudfront.net/Images/providers/SBOFUNKYGAME/FUNKYGAMES_126.jpg?v=20241125)
+![SBOFUNKYGAME](//dsuown9evwz4y.cloudfront.net/Images/providers/SBOFUNKYGAME/FUNKYGAMES_20.jpg?v=20241125)
 
 [MAIN](javascript:registerPopup({ content:'Silahkan login terlebih dahulu.' });)
 
-![SBOFUNKYGAME](//dsuown9evwz4y.cloudfront.net/Images/providers/SBOFUNKYGAME/FUNKYGAMES_198.jpg?v=20241125)
+![SBOFUNKYGAME](//dsuown9evwz4y.cloudfront.net/Images/providers/SBOFUNKYGAME/FUNKYGAMES_12.jpg?v=20241125)
 
 [MAIN](javascript:registerPopup({ content:'Silahkan login terlebih dahulu.' });)
 
-![SBOFUNKYGAME](//dsuown9evwz4y.cloudfront.net/Images/providers/SBOFUNKYGAME/FUNKYGAMES_298.jpg?v=20241125)
+![SBOFUNKYGAME](//dsuown9evwz4y.cloudfront.net/Images/providers/SBOFUNKYGAME/FUNKYGAMES_3.jpg?v=20241125)
 
 [MAIN](javascript:registerPopup({ content:'Silahkan login terlebih dahulu.' });)
 
-![SBOFUNKYGAME](//dsuown9evwz4y.cloudfront.net/Images/providers/SBOFUNKYGAME/FUNKYGAMES_101.jpg?v=20241125)
+![SBOFUNKYGAME](//dsuown9evwz4y.cloudfront.net/Images/providers/SBOFUNKYGAME/FUNKYGAMES_115.jpg?v=20241125)
 
 [MAIN](javascript:registerPopup({ content:'Silahkan login terlebih dahulu.' });)
 
-![SBOFUNKYGAME](//dsuown9evwz4y.cloudfront.net/Images/providers/SBOFUNKYGAME/FUNKYGAMES_125.jpg?v=20241125)
+![SBOFUNKYGAME](//dsuown9evwz4y.cloudfront.net/Images/providers/SBOFUNKYGAME/FUNKYGAMES_139.jpg?v=20241125)
 
 [MAIN](javascript:registerPopup({ content:'Silahkan login terlebih dahulu.' });)
 
-![SBOFUNKYGAME](//dsuown9evwz4y.cloudfront.net/Images/providers/SBOFUNKYGAME/FUNKYGAMES_212.jpg?v=20241125)
+![SBOFUNKYGAME](//dsuown9evwz4y.cloudfront.net/Images/providers/SBOFUNKYGAME/FUNKYGAMES_165.jpg?v=20241125)
 
 [MAIN](javascript:registerPopup({ content:'Silahkan login terlebih dahulu.' });)
 
 ![LIVE22](//dsuown9evwz4y.cloudfront.net/Images/~normad-alpha/dark-gold/desktop/home/slots/animations/LIVE22.png?v=20241125)
 
-![LIVE22](//dsuown9evwz4y.cloudfront.net/Images/providers/LIVE22/LIVE22_30030.jpg?v=20241125)
+![LIVE22](//dsuown9evwz4y.cloudfront.net/Images/providers/LIVE22/LIVE22_30013.jpg?v=20241125)
 
-[COBA](javascript:alert('Anda akan bermain versi demo, ini berarti menang/kalah dalam permainan tidak akan mempengaruhi dana/saldo anda.');openPopup('https://smapi.xystem138.com/api/opgateway/v1/op/demo/LaunchGame?opId=l22nxtIDR&Currency=IDR&GameCode=30030&lang=en-us', 'Slots');)
+[COBA](javascript:alert('Anda akan bermain versi demo, ini berarti menang/kalah dalam permainan tidak akan mempengaruhi dana/saldo anda.');openPopup('https://smapi.xystem138.com/api/opgateway/v1/op/demo/LaunchGame?opId=l22nxtIDR&Currency=IDR&GameCode=30013&lang=en-us', 'Slots');)
+[MAIN](javascript:registerPopup({ content:'Silahkan login terlebih dahulu.' });)
+
+![LIVE22](//dsuown9evwz4y.cloudfront.net/Images/providers/LIVE22/LIVE22_30005.jpg?v=20241125)
+
+[COBA](javascript:alert('Anda akan bermain versi demo, ini berarti menang/kalah dalam permainan tidak akan mempengaruhi dana/saldo anda.');openPopup('https://smapi.xystem138.com/api/opgateway/v1/op/demo/LaunchGame?opId=l22nxtIDR&Currency=IDR&GameCode=30005&lang=en-us', 'Slots');)
+[MAIN](javascript:registerPopup({ content:'Silahkan login terlebih dahulu.' });)
+
+![LIVE22](//dsuown9evwz4y.cloudfront.net/Images/providers/LIVE22/LIVE22_30003.jpg?v=20241125)
+
+[COBA](javascript:alert('Anda akan bermain versi demo, ini berarti menang/kalah dalam permainan tidak akan mempengaruhi dana/saldo anda.');openPopup('https://smapi.xystem138.com/api/opgateway/v1/op/demo/LaunchGame?opId=l22nxtIDR&Currency=IDR&GameCode=30003&lang=en-us', 'Slots');)
 [MAIN](javascript:registerPopup({ content:'Silahkan login terlebih dahulu.' });)
 
 ![LIVE22](//dsuown9evwz4y.cloudfront.net/Images/providers/LIVE22/LIVE22_30037.jpg?v=20241125)
@@ -832,85 +844,79 @@ PEMENANG MESIN SLOT
 [COBA](javascript:alert('Anda akan bermain versi demo, ini berarti menang/kalah dalam permainan tidak akan mempengaruhi dana/saldo anda.');openPopup('https://smapi.xystem138.com/api/opgateway/v1/op/demo/LaunchGame?opId=l22nxtIDR&Currency=IDR&GameCode=30037&lang=en-us', 'Slots');)
 [MAIN](javascript:registerPopup({ content:'Silahkan login terlebih dahulu.' });)
 
-![LIVE22](//dsuown9evwz4y.cloudfront.net/Images/providers/LIVE22/LIVE22_30031.jpg?v=20241125)
+![LIVE22](//dsuown9evwz4y.cloudfront.net/Images/providers/LIVE22/LIVE22_35006.jpg?v=20241125)
 
-[COBA](javascript:alert('Anda akan bermain versi demo, ini berarti menang/kalah dalam permainan tidak akan mempengaruhi dana/saldo anda.');openPopup('https://smapi.xystem138.com/api/opgateway/v1/op/demo/LaunchGame?opId=l22nxtIDR&Currency=IDR&GameCode=30031&lang=en-us', 'Slots');)
+[COBA](javascript:alert('Anda akan bermain versi demo, ini berarti menang/kalah dalam permainan tidak akan mempengaruhi dana/saldo anda.');openPopup('https://smapi.xystem138.com/api/opgateway/v1/op/demo/LaunchGame?opId=l22nxtIDR&Currency=IDR&GameCode=35006&lang=en-us', 'Slots');)
 [MAIN](javascript:registerPopup({ content:'Silahkan login terlebih dahulu.' });)
 
-![LIVE22](//dsuown9evwz4y.cloudfront.net/Images/providers/LIVE22/LIVE22_30011.jpg?v=20241125)
+![LIVE22](//dsuown9evwz4y.cloudfront.net/Images/providers/LIVE22/LIVE22_30008.jpg?v=20241125)
 
-[COBA](javascript:alert('Anda akan bermain versi demo, ini berarti menang/kalah dalam permainan tidak akan mempengaruhi dana/saldo anda.');openPopup('https://smapi.xystem138.com/api/opgateway/v1/op/demo/LaunchGame?opId=l22nxtIDR&Currency=IDR&GameCode=30011&lang=en-us', 'Slots');)
-[MAIN](javascript:registerPopup({ content:'Silahkan login terlebih dahulu.' });)
-
-![LIVE22](//dsuown9evwz4y.cloudfront.net/Images/providers/LIVE22/LIVE22_35001.jpg?v=20241125)
-
-[COBA](javascript:alert('Anda akan bermain versi demo, ini berarti menang/kalah dalam permainan tidak akan mempengaruhi dana/saldo anda.');openPopup('https://smapi.xystem138.com/api/opgateway/v1/op/demo/LaunchGame?opId=l22nxtIDR&Currency=IDR&GameCode=35001&lang=en-us', 'Slots');)
-[MAIN](javascript:registerPopup({ content:'Silahkan login terlebih dahulu.' });)
-
-![LIVE22](//dsuown9evwz4y.cloudfront.net/Images/providers/LIVE22/LIVE22_30025.jpg?v=20241125)
-
-[COBA](javascript:alert('Anda akan bermain versi demo, ini berarti menang/kalah dalam permainan tidak akan mempengaruhi dana/saldo anda.');openPopup('https://smapi.xystem138.com/api/opgateway/v1/op/demo/LaunchGame?opId=l22nxtIDR&Currency=IDR&GameCode=30025&lang=en-us', 'Slots');)
+[COBA](javascript:alert('Anda akan bermain versi demo, ini berarti menang/kalah dalam permainan tidak akan mempengaruhi dana/saldo anda.');openPopup('https://smapi.xystem138.com/api/opgateway/v1/op/demo/LaunchGame?opId=l22nxtIDR&Currency=IDR&GameCode=30008&lang=en-us', 'Slots');)
 [MAIN](javascript:registerPopup({ content:'Silahkan login terlebih dahulu.' });)
 
 ![PLAYSTAR](//dsuown9evwz4y.cloudfront.net/Images/~normad-alpha/dark-gold/desktop/home/slots/animations/PLAYSTAR.png?v=20241125)
 
-![PLAYSTAR](//dsuown9evwz4y.cloudfront.net/Images/providers/PLAYSTAR/PSS-ON-00099.jpg?v=20241125)
+![PLAYSTAR](//dsuown9evwz4y.cloudfront.net/Images/providers/PLAYSTAR/PSS-ON-00112.jpg?v=20241125)
 
 [MAIN](javascript:registerPopup({ content:'Silahkan login terlebih dahulu.' });)
 
-![PLAYSTAR](//dsuown9evwz4y.cloudfront.net/Images/providers/PLAYSTAR/PSS-ON-00160.jpg?v=20241125)
+![PLAYSTAR](//dsuown9evwz4y.cloudfront.net/Images/providers/PLAYSTAR/PSS-ON-00108.jpg?v=20241125)
 
 [MAIN](javascript:registerPopup({ content:'Silahkan login terlebih dahulu.' });)
 
-![PLAYSTAR](//dsuown9evwz4y.cloudfront.net/Images/providers/PLAYSTAR/PSS-ON-00127.jpg?v=20241125)
+![PLAYSTAR](//dsuown9evwz4y.cloudfront.net/Images/providers/PLAYSTAR/PSS-ON-00033.jpg?v=20241125)
 
 [MAIN](javascript:registerPopup({ content:'Silahkan login terlebih dahulu.' });)
 
-![PLAYSTAR](//dsuown9evwz4y.cloudfront.net/Images/providers/PLAYSTAR/PSS-ON-00065.jpg?v=20241125)
+![PLAYSTAR](//dsuown9evwz4y.cloudfront.net/Images/providers/PLAYSTAR/PSS-ON-00151.jpg?v=20241125)
 
 [MAIN](javascript:registerPopup({ content:'Silahkan login terlebih dahulu.' });)
 
-![PLAYSTAR](//dsuown9evwz4y.cloudfront.net/Images/providers/PLAYSTAR/PSS-ON-00139.jpg?v=20241125)
+![PLAYSTAR](//dsuown9evwz4y.cloudfront.net/Images/providers/PLAYSTAR/PSS-ON-00124.jpg?v=20241125)
 
 [MAIN](javascript:registerPopup({ content:'Silahkan login terlebih dahulu.' });)
 
-![PLAYSTAR](//dsuown9evwz4y.cloudfront.net/Images/providers/PLAYSTAR/PSS-ON-00079.jpg?v=20241125)
+![PLAYSTAR](//dsuown9evwz4y.cloudfront.net/Images/providers/PLAYSTAR/PSS-ON-00154.jpg?v=20241125)
 
 [MAIN](javascript:registerPopup({ content:'Silahkan login terlebih dahulu.' });)
 
 ![SPINIX](//dsuown9evwz4y.cloudfront.net/Images/~normad-alpha/dark-gold/desktop/home/slots/animations/SPINIX.png?v=20241125)
 
-![SPINIX](//dsuown9evwz4y.cloudfront.net/Images/providers/SPINIX/_6320351608ef1e34502c2fc3.jpg?v=20241125)
+![SPINIX](//dsuown9evwz4y.cloudfront.net/Images/providers/SPINIX/_60c81b1d5b4be52b6cf62466.jpg?v=20241125)
 
 [MAIN](javascript:registerPopup({ content:'Silahkan login terlebih dahulu.' });)
 
-![SPINIX](//dsuown9evwz4y.cloudfront.net/Images/providers/SPINIX/_6305e704d6edd42948d6ed80.jpg?v=20241125)
+![SPINIX](//dsuown9evwz4y.cloudfront.net/Images/providers/SPINIX/_6066d855447fbb1f04ecc90a.jpg?v=20241125)
 
 [MAIN](javascript:registerPopup({ content:'Silahkan login terlebih dahulu.' });)
 
-![SPINIX](//dsuown9evwz4y.cloudfront.net/Images/providers/SPINIX/_61a484dc8e6f119892a82ad5.jpg?v=20241125)
+![SPINIX](//dsuown9evwz4y.cloudfront.net/Images/providers/SPINIX/_61c5341ebd75ff06bc1766b1.jpg?v=20241125)
 
 [MAIN](javascript:registerPopup({ content:'Silahkan login terlebih dahulu.' });)
 
-![SPINIX](//dsuown9evwz4y.cloudfront.net/Images/providers/SPINIX/_6005088e51fca119d082673e.jpg?v=20241125)
+![SPINIX](//dsuown9evwz4y.cloudfront.net/Images/providers/SPINIX/_62f1c731a182f3553873918e.jpg?v=20241125)
 
 [MAIN](javascript:registerPopup({ content:'Silahkan login terlebih dahulu.' });)
 
-![SPINIX](//dsuown9evwz4y.cloudfront.net/Images/providers/SPINIX/_64f83c43e4d49990ad35ee64.jpg?v=20241125)
+![SPINIX](//dsuown9evwz4y.cloudfront.net/Images/providers/SPINIX/_6087c028844a44511c5a87c6.jpg?v=20241125)
 
 [MAIN](javascript:registerPopup({ content:'Silahkan login terlebih dahulu.' });)
 
-![SPINIX](//dsuown9evwz4y.cloudfront.net/Images/providers/SPINIX/_61a84a9010f0222c4063d24b.jpg?v=20241125)
+![SPINIX](//dsuown9evwz4y.cloudfront.net/Images/providers/SPINIX/_61e8c7aa0f54101e043534a7.jpg?v=20241125)
 
 [MAIN](javascript:registerPopup({ content:'Silahkan login terlebih dahulu.' });)
 
 ![CROWDPLAY](//dsuown9evwz4y.cloudfront.net/Images/~normad-alpha/dark-gold/desktop/home/slots/animations/CROWDPLAY.png?v=20241125)
 
-![CROWDPLAY](//dsuown9evwz4y.cloudfront.net/Images/providers/CROWDPLAY/pslot-002.jpg?v=20241125)
+![CROWDPLAY](//dsuown9evwz4y.cloudfront.net/Images/providers/CROWDPLAY/pslot-022.jpg?v=20241125)
 
 [MAIN](javascript:registerPopup({ content:'Silahkan login terlebih dahulu.' });)
 
-![CROWDPLAY](//dsuown9evwz4y.cloudfront.net/Images/providers/CROWDPLAY/pslot-001.jpg?v=20241125)
+![CROWDPLAY](//dsuown9evwz4y.cloudfront.net/Images/providers/CROWDPLAY/pslot-015.jpg?v=20241125)
+
+[MAIN](javascript:registerPopup({ content:'Silahkan login terlebih dahulu.' });)
+
+![CROWDPLAY](//dsuown9evwz4y.cloudfront.net/Images/providers/CROWDPLAY/pslot-018.jpg?v=20241125)
 
 [MAIN](javascript:registerPopup({ content:'Silahkan login terlebih dahulu.' });)
 
@@ -918,99 +924,107 @@ PEMENANG MESIN SLOT
 
 [MAIN](javascript:registerPopup({ content:'Silahkan login terlebih dahulu.' });)
 
-![CROWDPLAY](//dsuown9evwz4y.cloudfront.net/Images/providers/CROWDPLAY/pslot-004.jpg?v=20241125)
+![CROWDPLAY](//dsuown9evwz4y.cloudfront.net/Images/providers/CROWDPLAY/pslot-028.jpg?v=20241125)
 
 [MAIN](javascript:registerPopup({ content:'Silahkan login terlebih dahulu.' });)
 
-![CROWDPLAY](//dsuown9evwz4y.cloudfront.net/Images/providers/CROWDPLAY/pslot-021.jpg?v=20241125)
-
-[MAIN](javascript:registerPopup({ content:'Silahkan login terlebih dahulu.' });)
-
-![CROWDPLAY](//dsuown9evwz4y.cloudfront.net/Images/providers/CROWDPLAY/pslot-006.jpg?v=20241125)
+![CROWDPLAY](//dsuown9evwz4y.cloudfront.net/Images/providers/CROWDPLAY/pslot-016.jpg?v=20241125)
 
 [MAIN](javascript:registerPopup({ content:'Silahkan login terlebih dahulu.' });)
 
 ![BIGPOT](//dsuown9evwz4y.cloudfront.net/Images/~normad-alpha/dark-gold/desktop/home/slots/animations/BIGPOT.png?v=20241125)
 
-![BIGPOT](//dsuown9evwz4y.cloudfront.net/Images/providers/BIGPOT/SLOT_EL.jpg?v=20241125)
+![BIGPOT](//dsuown9evwz4y.cloudfront.net/Images/providers/BIGPOT/SLOT_MB.jpg?v=20241125)
 
 [MAIN](javascript:registerPopup({ content:'Silahkan login terlebih dahulu.' });)
 
-![BIGPOT](//dsuown9evwz4y.cloudfront.net/Images/providers/BIGPOT/SLOT_CF.jpg?v=20241125)
+![BIGPOT](//dsuown9evwz4y.cloudfront.net/Images/providers/BIGPOT/SLOT_KP.jpg?v=20241125)
 
 [MAIN](javascript:registerPopup({ content:'Silahkan login terlebih dahulu.' });)
 
-![BIGPOT](//dsuown9evwz4y.cloudfront.net/Images/providers/BIGPOT/SLOT_BS.jpg?v=20241125)
+![BIGPOT](//dsuown9evwz4y.cloudfront.net/Images/providers/BIGPOT/SLOT_RK.jpg?v=20241125)
 
 [MAIN](javascript:registerPopup({ content:'Silahkan login terlebih dahulu.' });)
 
-![BIGPOT](//dsuown9evwz4y.cloudfront.net/Images/providers/BIGPOT/SLOT_QB.jpg?v=20241125)
+![BIGPOT](//dsuown9evwz4y.cloudfront.net/Images/providers/BIGPOT/SLOT_DD.jpg?v=20241125)
 
 [MAIN](javascript:registerPopup({ content:'Silahkan login terlebih dahulu.' });)
 
-![BIGPOT](//dsuown9evwz4y.cloudfront.net/Images/providers/BIGPOT/SLOT_PJ.jpg?v=20241125)
+![BIGPOT](//dsuown9evwz4y.cloudfront.net/Images/providers/BIGPOT/SLOT_FB.jpg?v=20241125)
 
 [MAIN](javascript:registerPopup({ content:'Silahkan login terlebih dahulu.' });)
 
-![BIGPOT](//dsuown9evwz4y.cloudfront.net/Images/providers/BIGPOT/SLOT_OL.jpg?v=20241125)
+![BIGPOT](//dsuown9evwz4y.cloudfront.net/Images/providers/BIGPOT/SLOT_AS.jpg?v=20241125)
 
 [MAIN](javascript:registerPopup({ content:'Silahkan login terlebih dahulu.' });)
 
 ![VPOWER](//dsuown9evwz4y.cloudfront.net/Images/~normad-alpha/dark-gold/desktop/home/slots/animations/VPOWER.png?v=20241125)
 
-![VPOWER](//dsuown9evwz4y.cloudfront.net/Images/providers/VPOWER/BEFGHKMNORSV.jpg?v=20241125)
+![VPOWER](//dsuown9evwz4y.cloudfront.net/Images/providers/VPOWER/BDFIJNPQSUWY.jpg?v=20241125)
 
 [MAIN](javascript:registerPopup({ content:'Silahkan login terlebih dahulu.' });)
 
-![VPOWER](//dsuown9evwz4y.cloudfront.net/Images/providers/VPOWER/BDEFGHIJKOPS.jpg?v=20241125)
+![VPOWER](//dsuown9evwz4y.cloudfront.net/Images/providers/VPOWER/BCDFGIJNSWYZ.jpg?v=20241125)
 
 [MAIN](javascript:registerPopup({ content:'Silahkan login terlebih dahulu.' });)
 
-![VPOWER](//dsuown9evwz4y.cloudfront.net/Images/providers/VPOWER/OCODE3078.jpg?v=20241125)
+![VPOWER](//dsuown9evwz4y.cloudfront.net/Images/providers/VPOWER/ADFGILNOPQST.jpg?v=20241125)
 
 [MAIN](javascript:registerPopup({ content:'Silahkan login terlebih dahulu.' });)
 
-![VPOWER](//dsuown9evwz4y.cloudfront.net/Images/providers/VPOWER/ACEHILMNPXYZ.jpg?v=20241125)
+![VPOWER](//dsuown9evwz4y.cloudfront.net/Images/providers/VPOWER/CODE3150.jpg?v=20241125)
 
 [MAIN](javascript:registerPopup({ content:'Silahkan login terlebih dahulu.' });)
 
-![VPOWER](//dsuown9evwz4y.cloudfront.net/Images/providers/VPOWER/CODE3160.jpg?v=20241125)
+![VPOWER](//dsuown9evwz4y.cloudfront.net/Images/providers/VPOWER/ACDEFKMRSTUY.jpg?v=20241125)
 
 [MAIN](javascript:registerPopup({ content:'Silahkan login terlebih dahulu.' });)
 
-![VPOWER](//dsuown9evwz4y.cloudfront.net/Images/providers/VPOWER/BCFGIJLOQUWX.jpg?v=20241125)
+![VPOWER](//dsuown9evwz4y.cloudfront.net/Images/providers/VPOWER/CODE3145.jpg?v=20241125)
 
 [MAIN](javascript:registerPopup({ content:'Silahkan login terlebih dahulu.' });)
 
 ![WORLDMATCH](//dsuown9evwz4y.cloudfront.net/Images/~normad-alpha/dark-gold/desktop/home/slots/animations/WORLDMATCH.png?v=20241125)
 
-![WORLDMATCH](//dsuown9evwz4y.cloudfront.net/Images/providers/WORLDMATCH/MVSSL.jpg?v=20241125)
+![WORLDMATCH](//dsuown9evwz4y.cloudfront.net/Images/providers/WORLDMATCH/BOOMR.jpg?v=20241125)
 
 [MAIN](javascript:registerPopup({ content:'Silahkan login terlebih dahulu.' });)
 
-![WORLDMATCH](//dsuown9evwz4y.cloudfront.net/Images/providers/WORLDMATCH/GENGH.jpg?v=20241125)
+![WORLDMATCH](//dsuown9evwz4y.cloudfront.net/Images/providers/WORLDMATCH/PATSP.jpg?v=20241125)
 
 [MAIN](javascript:registerPopup({ content:'Silahkan login terlebih dahulu.' });)
 
-![WORLDMATCH](//dsuown9evwz4y.cloudfront.net/Images/providers/WORLDMATCH/GHPOT.jpg?v=20241125)
+![WORLDMATCH](//dsuown9evwz4y.cloudfront.net/Images/providers/WORLDMATCH/ROYAL.jpg?v=20241125)
 
 [MAIN](javascript:registerPopup({ content:'Silahkan login terlebih dahulu.' });)
 
-![WORLDMATCH](//dsuown9evwz4y.cloudfront.net/Images/providers/WORLDMATCH/XLION.jpg?v=20241125)
+![WORLDMATCH](//dsuown9evwz4y.cloudfront.net/Images/providers/WORLDMATCH/XJTTW.jpg?v=20241125)
 
 [MAIN](javascript:registerPopup({ content:'Silahkan login terlebih dahulu.' });)
 
-![WORLDMATCH](//dsuown9evwz4y.cloudfront.net/Images/providers/WORLDMATCH/SALON.jpg?v=20241125)
+![WORLDMATCH](//dsuown9evwz4y.cloudfront.net/Images/providers/WORLDMATCH/MYTHH.jpg?v=20241125)
 
 [MAIN](javascript:registerPopup({ content:'Silahkan login terlebih dahulu.' });)
 
-![WORLDMATCH](//dsuown9evwz4y.cloudfront.net/Images/providers/WORLDMATCH/PROUT.jpg?v=20241125)
+![WORLDMATCH](//dsuown9evwz4y.cloudfront.net/Images/providers/WORLDMATCH/GOLDP.jpg?v=20241125)
 
 [MAIN](javascript:registerPopup({ content:'Silahkan login terlebih dahulu.' });)
 
 ![FACHAI](//dsuown9evwz4y.cloudfront.net/Images/~normad-alpha/dark-gold/desktop/home/slots/animations/FACHAI.png?v=20241125)
 
-![FACHAI](//dsuown9evwz4y.cloudfront.net/Images/providers/FACHAI/FACHAI_22047.jpg?v=20241125)
+![FACHAI](//dsuown9evwz4y.cloudfront.net/Images/providers/FACHAI/FACHAI_22022.jpg?v=20241125)
+
+[MAIN](javascript:registerPopup({ content:'Silahkan login terlebih dahulu.' });)
+
+![FACHAI](//dsuown9evwz4y.cloudfront.net/Images/providers/FACHAI/FACHAI_22064.jpg?v=20241125)
+
+[MAIN](javascript:registerPopup({ content:'Silahkan login terlebih dahulu.' });)
+
+![FACHAI](//dsuown9evwz4y.cloudfront.net/Images/providers/FACHAI/FACHAI_21009.jpg?v=20241125)
+
+[MAIN](javascript:registerPopup({ content:'Silahkan login terlebih dahulu.' });)
+
+![FACHAI](//dsuown9evwz4y.cloudfront.net/Images/providers/FACHAI/FACHAI_22018.jpg?v=20241125)
 
 [MAIN](javascript:registerPopup({ content:'Silahkan login terlebih dahulu.' });)
 
@@ -1018,33 +1032,13 @@ PEMENANG MESIN SLOT
 
 [MAIN](javascript:registerPopup({ content:'Silahkan login terlebih dahulu.' });)
 
-![FACHAI](//dsuown9evwz4y.cloudfront.net/Images/providers/FACHAI/FACHAI_22056.jpg?v=20241125)
-
-[MAIN](javascript:registerPopup({ content:'Silahkan login terlebih dahulu.' });)
-
-![FACHAI](//dsuown9evwz4y.cloudfront.net/Images/providers/FACHAI/FACHAI_22037.jpg?v=20241125)
-
-[MAIN](javascript:registerPopup({ content:'Silahkan login terlebih dahulu.' });)
-
-![FACHAI](//dsuown9evwz4y.cloudfront.net/Images/providers/FACHAI/FACHAI_22022.jpg?v=20241125)
-
-[MAIN](javascript:registerPopup({ content:'Silahkan login terlebih dahulu.' });)
-
-![FACHAI](//dsuown9evwz4y.cloudfront.net/Images/providers/FACHAI/FACHAI_22023.jpg?v=20241125)
+![FACHAI](//dsuown9evwz4y.cloudfront.net/Images/providers/FACHAI/FACHAI_22059.jpg?v=20241125)
 
 [MAIN](javascript:registerPopup({ content:'Silahkan login terlebih dahulu.' });)
 
 ![SLOT88](//dsuown9evwz4y.cloudfront.net/Images/~normad-alpha/dark-gold/desktop/home/slots/animations/SLOT88.png?v=20241125)
 
-![SLOT88](//dsuown9evwz4y.cloudfront.net/Images/providers/SLOT88/SLOT88_69.jpg?v=20241125)
-
-[MAIN](javascript:registerPopup({ content:'Silahkan login terlebih dahulu.' });)
-
-![SLOT88](//dsuown9evwz4y.cloudfront.net/Images/providers/SLOT88/SLOT88_55.jpg?v=20241125)
-
-[MAIN](javascript:registerPopup({ content:'Silahkan login terlebih dahulu.' });)
-
-![SLOT88](//dsuown9evwz4y.cloudfront.net/Images/providers/SLOT88/SLOT88_68.jpg?v=20241125)
+![SLOT88](//dsuown9evwz4y.cloudfront.net/Images/providers/SLOT88/SLOT88_56.jpg?v=20241125)
 
 [MAIN](javascript:registerPopup({ content:'Silahkan login terlebih dahulu.' });)
 
@@ -1052,21 +1046,33 @@ PEMENANG MESIN SLOT
 
 [MAIN](javascript:registerPopup({ content:'Silahkan login terlebih dahulu.' });)
 
-![SLOT88](//dsuown9evwz4y.cloudfront.net/Images/providers/SLOT88/SLOT88_66.jpg?v=20241125)
+![SLOT88](//dsuown9evwz4y.cloudfront.net/Images/providers/SLOT88/SLOT88_69.jpg?v=20241125)
 
 [MAIN](javascript:registerPopup({ content:'Silahkan login terlebih dahulu.' });)
 
-![SLOT88](//dsuown9evwz4y.cloudfront.net/Images/providers/SLOT88/SLOT88_14.jpg?v=20241125)
+![SLOT88](//dsuown9evwz4y.cloudfront.net/Images/providers/SLOT88/SLOT88_23.jpg?v=20241125)
+
+[MAIN](javascript:registerPopup({ content:'Silahkan login terlebih dahulu.' });)
+
+![SLOT88](//dsuown9evwz4y.cloudfront.net/Images/providers/SLOT88/SLOT88_5.jpg?v=20241125)
+
+[MAIN](javascript:registerPopup({ content:'Silahkan login terlebih dahulu.' });)
+
+![SLOT88](//dsuown9evwz4y.cloudfront.net/Images/providers/SLOT88/SLOT88_63.jpg?v=20241125)
 
 [MAIN](javascript:registerPopup({ content:'Silahkan login terlebih dahulu.' });)
 
 ![PGS](//dsuown9evwz4y.cloudfront.net/Images/~normad-alpha/dark-gold/desktop/home/slots/animations/PGS.png?v=20241125)
 
-![PGS](//dsuown9evwz4y.cloudfront.net/Images/providers/PGS/agg_ht-iceagemammoths_290077.jpg?v=20241125)
+![PGS](//dsuown9evwz4y.cloudfront.net/Images/providers/PGS/agg_ht-arcticking_290074.jpg?v=20241125)
 
 [MAIN](javascript:registerPopup({ content:'Silahkan login terlebih dahulu.' });)
 
-![PGS](//dsuown9evwz4y.cloudfront.net/Images/providers/PGS/agg_ht-goldenfuwa_290062.jpg?v=20241125)
+![PGS](//dsuown9evwz4y.cloudfront.net/Images/providers/PGS/agg_ht-zorro_290075.jpg?v=20241125)
+
+[MAIN](javascript:registerPopup({ content:'Silahkan login terlebih dahulu.' });)
+
+![PGS](//dsuown9evwz4y.cloudfront.net/Images/providers/PGS/agg_ht-thebeauties_290058.jpg?v=20241125)
 
 [MAIN](javascript:registerPopup({ content:'Silahkan login terlebih dahulu.' });)
 
@@ -1074,107 +1080,95 @@ PEMENANG MESIN SLOT
 
 [MAIN](javascript:registerPopup({ content:'Silahkan login terlebih dahulu.' });)
 
-![PGS](//dsuown9evwz4y.cloudfront.net/Images/providers/PGS/agg_ht-aladdin_290063.jpg?v=20241125)
+![PGS](//dsuown9evwz4y.cloudfront.net/Images/providers/PGS/agg_ht-jalapeno_290080.jpg?v=20241125)
 
 [MAIN](javascript:registerPopup({ content:'Silahkan login terlebih dahulu.' });)
 
-![PGS](//dsuown9evwz4y.cloudfront.net/Images/providers/PGS/agg_ht-magician_290055.jpg?v=20241125)
-
-[MAIN](javascript:registerPopup({ content:'Silahkan login terlebih dahulu.' });)
-
-![PGS](//dsuown9evwz4y.cloudfront.net/Images/providers/PGS/agg_ht-amazonqueen_290076.jpg?v=20241125)
+![PGS](//dsuown9evwz4y.cloudfront.net/Images/providers/PGS/agg_ht-goldenfuwa_290062.jpg?v=20241125)
 
 [MAIN](javascript:registerPopup({ content:'Silahkan login terlebih dahulu.' });)
 
 ![AMB](//dsuown9evwz4y.cloudfront.net/Images/~normad-alpha/dark-gold/desktop/home/slots/animations/AMB.png?v=20241125)
 
-![AMB](//dsuown9evwz4y.cloudfront.net/Images/providers/AMB/MAFIAWAYS2.jpg?v=20241125)
+![AMB](//dsuown9evwz4y.cloudfront.net/Images/providers/AMB/FISHINGPARADISE.jpg?v=20241125)
 
 [MAIN](javascript:registerPopup({ content:'Silahkan login terlebih dahulu.' });)
 
-![AMB](//dsuown9evwz4y.cloudfront.net/Images/providers/AMB/HUNGRYKRAHUNG.jpg?v=20241125)
+![AMB](//dsuown9evwz4y.cloudfront.net/Images/providers/AMB/BLESSINGDRAGON.jpg?v=20241125)
 
 [MAIN](javascript:registerPopup({ content:'Silahkan login terlebih dahulu.' });)
 
-![AMB](//dsuown9evwz4y.cloudfront.net/Images/providers/AMB/MOEMOECUTE.jpg?v=20241125)
+![AMB](//dsuown9evwz4y.cloudfront.net/Images/providers/AMB/MERMAID.jpg?v=20241125)
 
 [MAIN](javascript:registerPopup({ content:'Silahkan login terlebih dahulu.' });)
 
-![AMB](//dsuown9evwz4y.cloudfront.net/Images/providers/AMB/FRUITSLOT.jpg?v=20241125)
+![AMB](//dsuown9evwz4y.cloudfront.net/Images/providers/AMB/BOMBDEFUSAL.jpg?v=20241125)
 
 [MAIN](javascript:registerPopup({ content:'Silahkan login terlebih dahulu.' });)
 
-![AMB](//dsuown9evwz4y.cloudfront.net/Images/providers/AMB/JOKER.jpg?v=20241125)
+![AMB](//dsuown9evwz4y.cloudfront.net/Images/providers/AMB/MAFIAWAYS.jpg?v=20241125)
 
 [MAIN](javascript:registerPopup({ content:'Silahkan login terlebih dahulu.' });)
 
-![AMB](//dsuown9evwz4y.cloudfront.net/Images/providers/AMB/LUCKYNANGKWAK.jpg?v=20241125)
+![AMB](//dsuown9evwz4y.cloudfront.net/Images/providers/AMB/MAHJONGLEGEND.jpg?v=20241125)
 
 [MAIN](javascript:registerPopup({ content:'Silahkan login terlebih dahulu.' });)
 
 ![MARIOCLUB](//dsuown9evwz4y.cloudfront.net/Images/~normad-alpha/dark-gold/desktop/home/slots/animations/MARIOCLUB.png?v=20241125)
 
-![MARIOCLUB](//dsuown9evwz4y.cloudfront.net/Images/providers/MARIOCLUB/GS075.jpg?v=20241125)
+![MARIOCLUB](//dsuown9evwz4y.cloudfront.net/Images/providers/MARIOCLUB/ES027.jpg?v=20241125)
 
 [MAIN](javascript:registerPopup({ content:'Silahkan login terlebih dahulu.' });)
 
-![MARIOCLUB](//dsuown9evwz4y.cloudfront.net/Images/providers/MARIOCLUB/GS006.jpg?v=20241125)
+![MARIOCLUB](//dsuown9evwz4y.cloudfront.net/Images/providers/MARIOCLUB/GS005.jpg?v=20241125)
 
 [MAIN](javascript:registerPopup({ content:'Silahkan login terlebih dahulu.' });)
 
-![MARIOCLUB](//dsuown9evwz4y.cloudfront.net/Images/providers/MARIOCLUB/ES021.jpg?v=20241125)
+![MARIOCLUB](//dsuown9evwz4y.cloudfront.net/Images/providers/MARIOCLUB/GS091.jpg?v=20241125)
 
 [MAIN](javascript:registerPopup({ content:'Silahkan login terlebih dahulu.' });)
 
-![MARIOCLUB](//dsuown9evwz4y.cloudfront.net/Images/providers/MARIOCLUB/GS030.jpg?v=20241125)
+![MARIOCLUB](//dsuown9evwz4y.cloudfront.net/Images/providers/MARIOCLUB/GS032.jpg?v=20241125)
 
 [MAIN](javascript:registerPopup({ content:'Silahkan login terlebih dahulu.' });)
 
-![MARIOCLUB](//dsuown9evwz4y.cloudfront.net/Images/providers/MARIOCLUB/GS029.jpg?v=20241125)
+![MARIOCLUB](//dsuown9evwz4y.cloudfront.net/Images/providers/MARIOCLUB/GS079.jpg?v=20241125)
 
 [MAIN](javascript:registerPopup({ content:'Silahkan login terlebih dahulu.' });)
 
-![MARIOCLUB](//dsuown9evwz4y.cloudfront.net/Images/providers/MARIOCLUB/GS039.jpg?v=20241125)
+![MARIOCLUB](//dsuown9evwz4y.cloudfront.net/Images/providers/MARIOCLUB/GS070.jpg?v=20241125)
 
 [MAIN](javascript:registerPopup({ content:'Silahkan login terlebih dahulu.' });)
 
 ![DRAGOONSOFT](//dsuown9evwz4y.cloudfront.net/Images/~normad-alpha/dark-gold/desktop/home/slots/animations/DRAGOONSOFT.png?v=20241125)
 
-![DRAGOONSOFT](//dsuown9evwz4y.cloudfront.net/Images/providers/DRAGOONSOFT/DRAGOONSOFT_3011.jpg?v=20241125)
+![DRAGOONSOFT](//dsuown9evwz4y.cloudfront.net/Images/providers/DRAGOONSOFT/DRAGOONSOFT_3075.jpg?v=20241125)
 
 [MAIN](javascript:registerPopup({ content:'Silahkan login terlebih dahulu.' });)
 
-![DRAGOONSOFT](//dsuown9evwz4y.cloudfront.net/Images/providers/DRAGOONSOFT/DRAGOONSOFT_3006.jpg?v=20241125)
+![DRAGOONSOFT](//dsuown9evwz4y.cloudfront.net/Images/providers/DRAGOONSOFT/DRAGOONSOFT_3057.jpg?v=20241125)
 
 [MAIN](javascript:registerPopup({ content:'Silahkan login terlebih dahulu.' });)
 
-![DRAGOONSOFT](//dsuown9evwz4y.cloudfront.net/Images/providers/DRAGOONSOFT/DRAGOONSOFT_3065.jpg?v=20241125)
+![DRAGOONSOFT](//dsuown9evwz4y.cloudfront.net/Images/providers/DRAGOONSOFT/DRAGOONSOFT_3039.jpg?v=20241125)
 
 [MAIN](javascript:registerPopup({ content:'Silahkan login terlebih dahulu.' });)
 
-![DRAGOONSOFT](//dsuown9evwz4y.cloudfront.net/Images/providers/DRAGOONSOFT/DRAGOONSOFT_3029.jpg?v=20241125)
+![DRAGOONSOFT](//dsuown9evwz4y.cloudfront.net/Images/providers/DRAGOONSOFT/DRAGOONSOFT_3043.jpg?v=20241125)
 
 [MAIN](javascript:registerPopup({ content:'Silahkan login terlebih dahulu.' });)
 
-![DRAGOONSOFT](//dsuown9evwz4y.cloudfront.net/Images/providers/DRAGOONSOFT/DRAGOONSOFT_3017.jpg?v=20241125)
+![DRAGOONSOFT](//dsuown9evwz4y.cloudfront.net/Images/providers/DRAGOONSOFT/DRAGOONSOFT_3080.jpg?v=20241125)
 
 [MAIN](javascript:registerPopup({ content:'Silahkan login terlebih dahulu.' });)
 
-![DRAGOONSOFT](//dsuown9evwz4y.cloudfront.net/Images/providers/DRAGOONSOFT/DRAGOONSOFT_3062.jpg?v=20241125)
+![DRAGOONSOFT](//dsuown9evwz4y.cloudfront.net/Images/providers/DRAGOONSOFT/DRAGOONSOFT_3041.jpg?v=20241125)
 
 [MAIN](javascript:registerPopup({ content:'Silahkan login terlebih dahulu.' });)
 
 ![FUNGAMING](//dsuown9evwz4y.cloudfront.net/Images/~normad-alpha/dark-gold/desktop/home/slots/animations/FUNGAMING.png?v=20241125)
 
-![FUNGAMING](//dsuown9evwz4y.cloudfront.net/Images/providers/FUNGAMING/mcrazy7.jpg?v=20241125)
-
-[MAIN](javascript:registerPopup({ content:'Silahkan login terlebih dahulu.' });)
-
-![FUNGAMING](//dsuown9evwz4y.cloudfront.net/Images/providers/FUNGAMING/bsz.jpg?v=20241125)
-
-[MAIN](javascript:registerPopup({ content:'Silahkan login terlebih dahulu.' });)
-
-![FUNGAMING](//dsuown9evwz4y.cloudfront.net/Images/providers/FUNGAMING/aijinw.jpg?v=20241125)
+![FUNGAMING](//dsuown9evwz4y.cloudfront.net/Images/providers/FUNGAMING/qqh.jpg?v=20241125)
 
 [MAIN](javascript:registerPopup({ content:'Silahkan login terlebih dahulu.' });)
 
@@ -1182,185 +1176,193 @@ PEMENANG MESIN SLOT
 
 [MAIN](javascript:registerPopup({ content:'Silahkan login terlebih dahulu.' });)
 
-![FUNGAMING](//dsuown9evwz4y.cloudfront.net/Images/providers/FUNGAMING/nz2.jpg?v=20241125)
+![FUNGAMING](//dsuown9evwz4y.cloudfront.net/Images/providers/FUNGAMING/fastf.jpg?v=20241125)
 
 [MAIN](javascript:registerPopup({ content:'Silahkan login terlebih dahulu.' });)
 
-![FUNGAMING](//dsuown9evwz4y.cloudfront.net/Images/providers/FUNGAMING/frt.jpg?v=20241125)
+![FUNGAMING](//dsuown9evwz4y.cloudfront.net/Images/providers/FUNGAMING/xj.jpg?v=20241125)
+
+[MAIN](javascript:registerPopup({ content:'Silahkan login terlebih dahulu.' });)
+
+![FUNGAMING](//dsuown9evwz4y.cloudfront.net/Images/providers/FUNGAMING/si.jpg?v=20241125)
+
+[MAIN](javascript:registerPopup({ content:'Silahkan login terlebih dahulu.' });)
+
+![FUNGAMING](//dsuown9evwz4y.cloudfront.net/Images/providers/FUNGAMING/dfdc.jpg?v=20241125)
 
 [MAIN](javascript:registerPopup({ content:'Silahkan login terlebih dahulu.' });)
 
 ![NAGAGAMES](//dsuown9evwz4y.cloudfront.net/Images/~normad-alpha/dark-gold/desktop/home/slots/animations/NAGAGAMES.png?v=20241125)
 
-![NAGAGAMES](//dsuown9evwz4y.cloudfront.net/Images/providers/NAGAGAMES/playboy-mansion.jpg?v=20241125)
+![NAGAGAMES](//dsuown9evwz4y.cloudfront.net/Images/providers/NAGAGAMES/empress-of-the-black-seas.jpg?v=20241125)
 
 [MAIN](javascript:registerPopup({ content:'Silahkan login terlebih dahulu.' });)
 
-![NAGAGAMES](//dsuown9evwz4y.cloudfront.net/Images/providers/NAGAGAMES/sakura-neko.jpg?v=20241125)
+![NAGAGAMES](//dsuown9evwz4y.cloudfront.net/Images/providers/NAGAGAMES/wishes-of-the-genie.jpg?v=20241125)
 
 [MAIN](javascript:registerPopup({ content:'Silahkan login terlebih dahulu.' });)
 
-![NAGAGAMES](//dsuown9evwz4y.cloudfront.net/Images/providers/NAGAGAMES/kawaii-neko.jpg?v=20241125)
+![NAGAGAMES](//dsuown9evwz4y.cloudfront.net/Images/providers/NAGAGAMES/sugary-bonanza.jpg?v=20241125)
 
 [MAIN](javascript:registerPopup({ content:'Silahkan login terlebih dahulu.' });)
 
-![NAGAGAMES](//dsuown9evwz4y.cloudfront.net/Images/providers/NAGAGAMES/amazing-circus.jpg?v=20241125)
+![NAGAGAMES](//dsuown9evwz4y.cloudfront.net/Images/providers/NAGAGAMES/kungfu-warrior.jpg?v=20241125)
 
 [MAIN](javascript:registerPopup({ content:'Silahkan login terlebih dahulu.' });)
 
-![NAGAGAMES](//dsuown9evwz4y.cloudfront.net/Images/providers/NAGAGAMES/spring-harvest.jpg?v=20241125)
+![NAGAGAMES](//dsuown9evwz4y.cloudfront.net/Images/providers/NAGAGAMES/mayan-gold-hunt.jpg?v=20241125)
 
 [MAIN](javascript:registerPopup({ content:'Silahkan login terlebih dahulu.' });)
 
-![NAGAGAMES](//dsuown9evwz4y.cloudfront.net/Images/providers/NAGAGAMES/sexy-christmas.jpg?v=20241125)
+![NAGAGAMES](//dsuown9evwz4y.cloudfront.net/Images/providers/NAGAGAMES/stallion-gold.jpg?v=20241125)
 
 [MAIN](javascript:registerPopup({ content:'Silahkan login terlebih dahulu.' });)
 
 ![JDB](//dsuown9evwz4y.cloudfront.net/Images/~normad-alpha/dark-gold/desktop/home/slots/animations/JDB.png?v=20241125)
 
-![JDB](//dsuown9evwz4y.cloudfront.net/Images/providers/JDB/JDB_0_8023.jpg?v=20241125)
+![JDB](//dsuown9evwz4y.cloudfront.net/Images/providers/JDB/JDB_0_14084.jpg?v=20241125)
 
 [MAIN](javascript:registerPopup({ content:'Silahkan login terlebih dahulu.' });)
 
-![JDB](//dsuown9evwz4y.cloudfront.net/Images/providers/JDB/JDB_0_8001.jpg?v=20241125)
+![JDB](//dsuown9evwz4y.cloudfront.net/Images/providers/JDB/JDB_0_8048.jpg?v=20241125)
 
 [MAIN](javascript:registerPopup({ content:'Silahkan login terlebih dahulu.' });)
 
-![JDB](//dsuown9evwz4y.cloudfront.net/Images/providers/JDB/JDB_0_14033.jpg?v=20241125)
+![JDB](//dsuown9evwz4y.cloudfront.net/Images/providers/JDB/JDB_0_14087.jpg?v=20241125)
 
 [MAIN](javascript:registerPopup({ content:'Silahkan login terlebih dahulu.' });)
 
-![JDB](//dsuown9evwz4y.cloudfront.net/Images/providers/JDB/JDB_0_14075.jpg?v=20241125)
+![JDB](//dsuown9evwz4y.cloudfront.net/Images/providers/JDB/JDB_0_14053.jpg?v=20241125)
 
 [MAIN](javascript:registerPopup({ content:'Silahkan login terlebih dahulu.' });)
 
-![JDB](//dsuown9evwz4y.cloudfront.net/Images/providers/JDB/JDB_9_9009.jpg?v=20241125)
+![JDB](//dsuown9evwz4y.cloudfront.net/Images/providers/JDB/JDB_0_14058.jpg?v=20241125)
 
 [MAIN](javascript:registerPopup({ content:'Silahkan login terlebih dahulu.' });)
 
-![JDB](//dsuown9evwz4y.cloudfront.net/Images/providers/JDB/JDB_0_14045.jpg?v=20241125)
+![JDB](//dsuown9evwz4y.cloudfront.net/Images/providers/JDB/JDB_0_8017.jpg?v=20241125)
 
 [MAIN](javascript:registerPopup({ content:'Silahkan login terlebih dahulu.' });)
 
 ![SBOCQ9](//dsuown9evwz4y.cloudfront.net/Images/~normad-alpha/dark-gold/desktop/home/slots/animations/SBOCQ9.png?v=20241125)
 
-![SBOCQ9](//dsuown9evwz4y.cloudfront.net/Images/providers/SBOCQ9/CQ9_73.jpg?v=20241125)
+![SBOCQ9](//dsuown9evwz4y.cloudfront.net/Images/providers/SBOCQ9/CQ9_131.jpg?v=20241125)
 
 [MAIN](javascript:registerPopup({ content:'Silahkan login terlebih dahulu.' });)
 
-![SBOCQ9](//dsuown9evwz4y.cloudfront.net/Images/providers/SBOCQ9/CQ9_282.jpg?v=20241125)
+![SBOCQ9](//dsuown9evwz4y.cloudfront.net/Images/providers/SBOCQ9/CQ9_43.jpg?v=20241125)
 
 [MAIN](javascript:registerPopup({ content:'Silahkan login terlebih dahulu.' });)
 
-![SBOCQ9](//dsuown9evwz4y.cloudfront.net/Images/providers/SBOCQ9/CQ9_105.jpg?v=20241125)
+![SBOCQ9](//dsuown9evwz4y.cloudfront.net/Images/providers/SBOCQ9/CQ9_155.jpg?v=20241125)
 
 [MAIN](javascript:registerPopup({ content:'Silahkan login terlebih dahulu.' });)
 
-![SBOCQ9](//dsuown9evwz4y.cloudfront.net/Images/providers/SBOCQ9/CQ9_26.jpg?v=20241125)
+![SBOCQ9](//dsuown9evwz4y.cloudfront.net/Images/providers/SBOCQ9/CQ9_177.jpg?v=20241125)
 
 [MAIN](javascript:registerPopup({ content:'Silahkan login terlebih dahulu.' });)
 
-![SBOCQ9](//dsuown9evwz4y.cloudfront.net/Images/providers/SBOCQ9/CQ9_125.jpg?v=20241125)
+![SBOCQ9](//dsuown9evwz4y.cloudfront.net/Images/providers/SBOCQ9/CQ9_9.jpg?v=20241125)
 
 [MAIN](javascript:registerPopup({ content:'Silahkan login terlebih dahulu.' });)
 
-![SBOCQ9](//dsuown9evwz4y.cloudfront.net/Images/providers/SBOCQ9/CQ9_274.jpg?v=20241125)
+![SBOCQ9](//dsuown9evwz4y.cloudfront.net/Images/providers/SBOCQ9/CQ9_115.jpg?v=20241125)
 
 [MAIN](javascript:registerPopup({ content:'Silahkan login terlebih dahulu.' });)
 
 ![ONLYPLAY](//dsuown9evwz4y.cloudfront.net/Images/~normad-alpha/dark-gold/desktop/home/slots/animations/ONLYPLAY.png?v=20241125)
 
-![ONLYPLAY](//dsuown9evwz4y.cloudfront.net/Images/providers/ONLYPLAY/cricketcrash.jpg?v=20241125)
+![ONLYPLAY](//dsuown9evwz4y.cloudfront.net/Images/providers/ONLYPLAY/anubisobelisk.jpg?v=20241125)
 
 [MAIN](javascript:registerPopup({ content:'Silahkan login terlebih dahulu.' });)
 
-![ONLYPLAY](//dsuown9evwz4y.cloudfront.net/Images/providers/ONLYPLAY/wildcoins.jpg?v=20241125)
+![ONLYPLAY](//dsuown9evwz4y.cloudfront.net/Images/providers/ONLYPLAY/lavafruits.jpg?v=20241125)
 
 [MAIN](javascript:registerPopup({ content:'Silahkan login terlebih dahulu.' });)
 
-![ONLYPLAY](//dsuown9evwz4y.cloudfront.net/Images/providers/ONLYPLAY/glamourcrocodilechristmas.jpg?v=20241125)
+![ONLYPLAY](//dsuown9evwz4y.cloudfront.net/Images/providers/ONLYPLAY/fighter.jpg?v=20241125)
 
 [MAIN](javascript:registerPopup({ content:'Silahkan login terlebih dahulu.' });)
 
-![ONLYPLAY](//dsuown9evwz4y.cloudfront.net/Images/providers/ONLYPLAY/iggyracing.jpg?v=20241125)
+![ONLYPLAY](//dsuown9evwz4y.cloudfront.net/Images/providers/ONLYPLAY/ligafortunapromegaways.jpg?v=20241125)
 
 [MAIN](javascript:registerPopup({ content:'Silahkan login terlebih dahulu.' });)
 
-![ONLYPLAY](//dsuown9evwz4y.cloudfront.net/Images/providers/ONLYPLAY/luckypunchmegaways.jpg?v=20241125)
+![ONLYPLAY](//dsuown9evwz4y.cloudfront.net/Images/providers/ONLYPLAY/jackpotterdeluxe.jpg?v=20241125)
 
 [MAIN](javascript:registerPopup({ content:'Silahkan login terlebih dahulu.' });)
 
-![ONLYPLAY](//dsuown9evwz4y.cloudfront.net/Images/providers/ONLYPLAY/juicycrush.jpg?v=20241125)
+![ONLYPLAY](//dsuown9evwz4y.cloudfront.net/Images/providers/ONLYPLAY/junglegoldmegaways.jpg?v=20241125)
 
 [MAIN](javascript:registerPopup({ content:'Silahkan login terlebih dahulu.' });)
 
 ![NETENT](//dsuown9evwz4y.cloudfront.net/Images/~normad-alpha/dark-gold/desktop/home/slots/animations/NETENT.png?v=20241125)
 
-![NETENT](//dsuown9evwz4y.cloudfront.net/Images/providers/NETENT/secretofthestone.jpg?v=20241125)
+![NETENT](//dsuown9evwz4y.cloudfront.net/Images/providers/NETENT/goldengrimoire00.jpg?v=20241125)
 
 [MAIN](javascript:registerPopup({ content:'Silahkan login terlebih dahulu.' });)
 
-![NETENT](//dsuown9evwz4y.cloudfront.net/Images/providers/NETENT/cursedtreasr96f1.jpg?v=20241125)
+![NETENT](//dsuown9evwz4y.cloudfront.net/Images/providers/NETENT/discodanny000000.jpg?v=20241125)
 
 [MAIN](javascript:registerPopup({ content:'Silahkan login terlebih dahulu.' });)
 
-![NETENT](//dsuown9evwz4y.cloudfront.net/Images/providers/NETENT/rainforestgold00.jpg?v=20241125)
+![NETENT](//dsuown9evwz4y.cloudfront.net/Images/providers/NETENT/jackhammer200000.jpg?v=20241125)
 
 [MAIN](javascript:registerPopup({ content:'Silahkan login terlebih dahulu.' });)
 
-![NETENT](//dsuown9evwz4y.cloudfront.net/Images/providers/NETENT/hotline2f1g10000.jpg?v=20241125)
+![NETENT](//dsuown9evwz4y.cloudfront.net/Images/providers/NETENT/oceanstreasure00.jpg?v=20241125)
 
 [MAIN](javascript:registerPopup({ content:'Silahkan login terlebih dahulu.' });)
 
-![NETENT](//dsuown9evwz4y.cloudfront.net/Images/providers/NETENT/willyshotchillie.jpg?v=20241125)
+![NETENT](//dsuown9evwz4y.cloudfront.net/Images/providers/NETENT/mineblown0000000.jpg?v=20241125)
 
 [MAIN](javascript:registerPopup({ content:'Silahkan login terlebih dahulu.' });)
 
-![NETENT](//dsuown9evwz4y.cloudfront.net/Images/providers/NETENT/goldeneggirs96f1.jpg?v=20241125)
+![NETENT](//dsuown9evwz4y.cloudfront.net/Images/providers/NETENT/gladiatorclash00.jpg?v=20241125)
 
 [MAIN](javascript:registerPopup({ content:'Silahkan login terlebih dahulu.' });)
 
 ![BIGTIMEGAMING](//dsuown9evwz4y.cloudfront.net/Images/~normad-alpha/dark-gold/desktop/home/slots/animations/BIGTIMEGAMING.png?v=20241125)
 
-![BIGTIMEGAMING](//dsuown9evwz4y.cloudfront.net/Images/providers/BIGTIMEGAMING/theracev10000000.jpg?v=20241125)
+![BIGTIMEGAMING](//dsuown9evwz4y.cloudfront.net/Images/providers/BIGTIMEGAMING/maxmegaways2v100.jpg?v=20241125)
 
 [MAIN](javascript:registerPopup({ content:'Silahkan login terlebih dahulu.' });)
 
-![BIGTIMEGAMING](//dsuown9evwz4y.cloudfront.net/Images/providers/BIGTIMEGAMING/beeflightningv10.jpg?v=20241125)
+![BIGTIMEGAMING](//dsuown9evwz4y.cloudfront.net/Images/providers/BIGTIMEGAMING/thefinalctdownv1.jpg?v=20241125)
 
 [MAIN](javascript:registerPopup({ content:'Silahkan login terlebih dahulu.' });)
 
-![BIGTIMEGAMING](//dsuown9evwz4y.cloudfront.net/Images/providers/BIGTIMEGAMING/christmascatchv1.jpg?v=20241125)
+![BIGTIMEGAMING](//dsuown9evwz4y.cloudfront.net/Images/providers/BIGTIMEGAMING/millionaierushv1.jpg?v=20241125)
 
 [MAIN](javascript:registerPopup({ content:'Silahkan login terlebih dahulu.' });)
 
-![BIGTIMEGAMING](//dsuown9evwz4y.cloudfront.net/Images/providers/BIGTIMEGAMING/castleofterrorv1.jpg?v=20241125)
+![BIGTIMEGAMING](//dsuown9evwz4y.cloudfront.net/Images/providers/BIGTIMEGAMING/maxmegaways3v100.jpg?v=20241125)
 
 [MAIN](javascript:registerPopup({ content:'Silahkan login terlebih dahulu.' });)
 
-![BIGTIMEGAMING](//dsuown9evwz4y.cloudfront.net/Images/providers/BIGTIMEGAMING/bonanzafallsv100.jpg?v=20241125)
+![BIGTIMEGAMING](//dsuown9evwz4y.cloudfront.net/Images/providers/BIGTIMEGAMING/opalfruitsv10000.jpg?v=20241125)
 
 [MAIN](javascript:registerPopup({ content:'Silahkan login terlebih dahulu.' });)
 
-![BIGTIMEGAMING](//dsuown9evwz4y.cloudfront.net/Images/providers/BIGTIMEGAMING/goldengoosemv100.jpg?v=20241125)
+![BIGTIMEGAMING](//dsuown9evwz4y.cloudfront.net/Images/providers/BIGTIMEGAMING/whiterabbitv4000.jpg?v=20241125)
 
 [MAIN](javascript:registerPopup({ content:'Silahkan login terlebih dahulu.' });)
 
 ![REDTIGER](//dsuown9evwz4y.cloudfront.net/Images/~normad-alpha/dark-gold/desktop/home/slots/animations/REDTIGER.png?v=20241125)
 
-![REDTIGER](//dsuown9evwz4y.cloudfront.net/Images/providers/REDTIGER/legendaryexcalib.jpg?v=20241125)
+![REDTIGER](//dsuown9evwz4y.cloudfront.net/Images/providers/REDTIGER/christmasmultiho.jpg?v=20241125)
 
 [MAIN](javascript:registerPopup({ content:'Silahkan login terlebih dahulu.' });)
 
-![REDTIGER](//dsuown9evwz4y.cloudfront.net/Images/providers/REDTIGER/mysticwheel00000.jpg?v=20241125)
+![REDTIGER](//dsuown9evwz4y.cloudfront.net/Images/providers/REDTIGER/10001nights00000.jpg?v=20241125)
 
 [MAIN](javascript:registerPopup({ content:'Silahkan login terlebih dahulu.' });)
 
-![REDTIGER](//dsuown9evwz4y.cloudfront.net/Images/providers/REDTIGER/megarise00000000.jpg?v=20241125)
+![REDTIGER](//dsuown9evwz4y.cloudfront.net/Images/providers/REDTIGER/thegreatesttrain.jpg?v=20241125)
 
 [MAIN](javascript:registerPopup({ content:'Silahkan login terlebih dahulu.' });)
 
-![REDTIGER](//dsuown9evwz4y.cloudfront.net/Images/providers/REDTIGER/goldenleprechaun.jpg?v=20241125)
+![REDTIGER](//dsuown9evwz4y.cloudfront.net/Images/providers/REDTIGER/magictricks00000.jpg?v=20241125)
 
 [MAIN](javascript:registerPopup({ content:'Silahkan login terlebih dahulu.' });)
 
@@ -1368,85 +1370,85 @@ PEMENANG MESIN SLOT
 
 [MAIN](javascript:registerPopup({ content:'Silahkan login terlebih dahulu.' });)
 
-![REDTIGER](//dsuown9evwz4y.cloudfront.net/Images/providers/REDTIGER/masquerade000000.jpg?v=20241125)
+![REDTIGER](//dsuown9evwz4y.cloudfront.net/Images/providers/REDTIGER/donthitplz000000.jpg?v=20241125)
 
 [MAIN](javascript:registerPopup({ content:'Silahkan login terlebih dahulu.' });)
 
 ![SKYWIND](//dsuown9evwz4y.cloudfront.net/Images/~normad-alpha/dark-gold/desktop/home/slots/animations/SKYWIND.png?v=20241125)
 
-![SKYWIND](//dsuown9evwz4y.cloudfront.net/Images/providers/SKYWIND/sw_es.jpg?v=20241125)
-
-[MAIN](javascript:registerPopup({ content:'Silahkan login terlebih dahulu.' });)
-
-![SKYWIND](//dsuown9evwz4y.cloudfront.net/Images/providers/SKYWIND/sw_hp.jpg?v=20241125)
-
-[MAIN](javascript:registerPopup({ content:'Silahkan login terlebih dahulu.' });)
-
-![SKYWIND](//dsuown9evwz4y.cloudfront.net/Images/providers/SKYWIND/sw_wi0.jpg?v=20241125)
-
-[MAIN](javascript:registerPopup({ content:'Silahkan login terlebih dahulu.' });)
-
-![SKYWIND](//dsuown9evwz4y.cloudfront.net/Images/providers/SKYWIND/sw_sl.jpg?v=20241125)
-
-[MAIN](javascript:registerPopup({ content:'Silahkan login terlebih dahulu.' });)
-
 ![SKYWIND](//dsuown9evwz4y.cloudfront.net/Images/providers/SKYWIND/sw_ssm.jpg?v=20241125)
 
 [MAIN](javascript:registerPopup({ content:'Silahkan login terlebih dahulu.' });)
 
-![SKYWIND](//dsuown9evwz4y.cloudfront.net/Images/providers/SKYWIND/sw_fufish_intw.jpg?v=20241125)
+![SKYWIND](//dsuown9evwz4y.cloudfront.net/Images/providers/SKYWIND/itg_bigirishbucks_9404.jpg?v=20241125)
+
+[MAIN](javascript:registerPopup({ content:'Silahkan login terlebih dahulu.' });)
+
+![SKYWIND](//dsuown9evwz4y.cloudfront.net/Images/providers/SKYWIND/sw_gejo.jpg?v=20241125)
+
+[MAIN](javascript:registerPopup({ content:'Silahkan login terlebih dahulu.' });)
+
+![SKYWIND](//dsuown9evwz4y.cloudfront.net/Images/providers/SKYWIND/sw_sw_mgn_965.jpg?v=20241125)
+
+[MAIN](javascript:registerPopup({ content:'Silahkan login terlebih dahulu.' });)
+
+![SKYWIND](//dsuown9evwz4y.cloudfront.net/Images/providers/SKYWIND/sw_hge_965.jpg?v=20241125)
+
+[MAIN](javascript:registerPopup({ content:'Silahkan login terlebih dahulu.' });)
+
+![SKYWIND](//dsuown9evwz4y.cloudfront.net/Images/providers/SKYWIND/sw_slbs.jpg?v=20241125)
 
 [MAIN](javascript:registerPopup({ content:'Silahkan login terlebih dahulu.' });)
 
 ![YGGDRASIL](//dsuown9evwz4y.cloudfront.net/Images/~normad-alpha/dark-gold/desktop/home/slots/animations/YGGDRASIL.png?v=20241125)
 
-![YGGDRASIL](//dsuown9evwz4y.cloudfront.net/Images/providers/YGGDRASIL/YGGDRASIL_224.jpg?v=20241125)
+![YGGDRASIL](//dsuown9evwz4y.cloudfront.net/Images/providers/YGGDRASIL/YGGDRASIL_128.jpg?v=20241125)
 
 [MAIN](javascript:registerPopup({ content:'Silahkan login terlebih dahulu.' });)
 
-![YGGDRASIL](//dsuown9evwz4y.cloudfront.net/Images/providers/YGGDRASIL/YGGDRASIL_285.jpg?v=20241125)
+![YGGDRASIL](//dsuown9evwz4y.cloudfront.net/Images/providers/YGGDRASIL/YGGDRASIL_236.jpg?v=20241125)
 
 [MAIN](javascript:registerPopup({ content:'Silahkan login terlebih dahulu.' });)
 
-![YGGDRASIL](//dsuown9evwz4y.cloudfront.net/Images/providers/YGGDRASIL/YGGDRASIL_242.jpg?v=20241125)
+![YGGDRASIL](//dsuown9evwz4y.cloudfront.net/Images/providers/YGGDRASIL/YGGDRASIL_48.jpg?v=20241125)
 
 [MAIN](javascript:registerPopup({ content:'Silahkan login terlebih dahulu.' });)
 
-![YGGDRASIL](//dsuown9evwz4y.cloudfront.net/Images/providers/YGGDRASIL/YGGDRASIL_248.jpg?v=20241125)
+![YGGDRASIL](//dsuown9evwz4y.cloudfront.net/Images/providers/YGGDRASIL/YGGDRASIL_153.jpg?v=20241125)
 
 [MAIN](javascript:registerPopup({ content:'Silahkan login terlebih dahulu.' });)
 
-![YGGDRASIL](//dsuown9evwz4y.cloudfront.net/Images/providers/YGGDRASIL/YGGDRASIL_267.jpg?v=20241125)
+![YGGDRASIL](//dsuown9evwz4y.cloudfront.net/Images/providers/YGGDRASIL/YGGDRASIL_275.jpg?v=20241125)
 
 [MAIN](javascript:registerPopup({ content:'Silahkan login terlebih dahulu.' });)
 
-![YGGDRASIL](//dsuown9evwz4y.cloudfront.net/Images/providers/YGGDRASIL/YGGDRASIL_221.jpg?v=20241125)
+![YGGDRASIL](//dsuown9evwz4y.cloudfront.net/Images/providers/YGGDRASIL/YGGDRASIL_192.jpg?v=20241125)
 
 [MAIN](javascript:registerPopup({ content:'Silahkan login terlebih dahulu.' });)
 
 ![PLAYNGO](//dsuown9evwz4y.cloudfront.net/Images/~normad-alpha/dark-gold/desktop/home/slots/animations/PLAYNGO.png?v=20241125)
 
-![PLAYNGO](//dsuown9evwz4y.cloudfront.net/Images/providers/PLAYNGO/charliechancehelltopay.jpg?v=20241125)
+![PLAYNGO](//dsuown9evwz4y.cloudfront.net/Images/providers/PLAYNGO/wildnorth.jpg?v=20241125)
 
 [MAIN](javascript:registerPopup({ content:'Silahkan login terlebih dahulu.' });)
 
-![PLAYNGO](//dsuown9evwz4y.cloudfront.net/Images/providers/PLAYNGO/fatfrankies.jpg?v=20241125)
+![PLAYNGO](//dsuown9evwz4y.cloudfront.net/Images/providers/PLAYNGO/stickyjoker.jpg?v=20241125)
 
 [MAIN](javascript:registerPopup({ content:'Silahkan login terlebih dahulu.' });)
 
-![PLAYNGO](//dsuown9evwz4y.cloudfront.net/Images/providers/PLAYNGO/infernostar.jpg?v=20241125)
+![PLAYNGO](//dsuown9evwz4y.cloudfront.net/Images/providers/PLAYNGO/fortunerewind.jpg?v=20241125)
 
 [MAIN](javascript:registerPopup({ content:'Silahkan login terlebih dahulu.' });)
 
-![PLAYNGO](//dsuown9evwz4y.cloudfront.net/Images/providers/PLAYNGO/grimmuerto.jpg?v=20241125)
+![PLAYNGO](//dsuown9evwz4y.cloudfront.net/Images/providers/PLAYNGO/goldking.jpg?v=20241125)
 
 [MAIN](javascript:registerPopup({ content:'Silahkan login terlebih dahulu.' });)
 
-![PLAYNGO](//dsuown9evwz4y.cloudfront.net/Images/providers/PLAYNGO/piggyblitz.jpg?v=20241125)
+![PLAYNGO](//dsuown9evwz4y.cloudfront.net/Images/providers/PLAYNGO/trollhunters.jpg?v=20241125)
 
 [MAIN](javascript:registerPopup({ content:'Silahkan login terlebih dahulu.' });)
 
-![PLAYNGO](//dsuown9evwz4y.cloudfront.net/Images/providers/PLAYNGO/bugsparty.jpg?v=20241125)
+![PLAYNGO](//dsuown9evwz4y.cloudfront.net/Images/providers/PLAYNGO/thewildclass.jpg?v=20241125)
 
 [MAIN](javascript:registerPopup({ content:'Silahkan login terlebih dahulu.' });)
 
