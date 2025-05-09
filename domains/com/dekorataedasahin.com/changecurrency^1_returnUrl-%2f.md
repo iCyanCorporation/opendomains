@@ -189,7 +189,7 @@ Abonelikten ayrıl
 #### Dekorata Dekorata
 
 * [İletişim](/contactus)
-* [[email protected]](/cdn-cgi/l/email-protection#a8)
+* [[email protected]](/cdn-cgi/l/email-protection#47)
 * [0532 342 03 33](https://wa.me/+905336033118)
 * [10.00-18.00](/contactus)
 
