@@ -1,0 +1,1 @@
+Invite friends to join Philucky and participate in free activities, you can receive 200PHP in cash and withdraw it to GCASH
