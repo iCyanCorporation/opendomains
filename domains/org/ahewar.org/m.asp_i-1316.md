@@ -209,7 +209,7 @@ Author ID - معرف الكاتب-ة: 1316
 * [نحن كصفحتك  الرئسية !](#)
 * [ارسل
   هذا الموقع الى
-  صديق](/cdn-cgi/l/email-protection#aa95d9dfc8c0cfc9de97fac6cfcbd9cf8adcc3d9c3de8adec2c3d98ad9c3decf8ac2dededad9908585dddddd84cbc2cfddcbd884c5d8cd85c784cbd9da95c3979b999b9c8cc8c5ced397fac6cfcbd9cf8adcc3d9c3de8adec2c3d98ad9c3decf8ac2dededad9908585dddddd84cbc2cfddcbd884c5d8cd85c784cbd9da95c3979b999b9c)
+  صديق](/cdn-cgi/l/email-protection#a19ed2d4c3cbc4c2d59cf1cdc4c0d2c481d7c8d2c8d581d5c9c8d281d2c8d5c481c9d5d5d1d29b8e8ed6d6d68fc0c9c4d6c0d38fced3c68ecc8fc0d2d19ec89c9092909787c3cec5d89cf1cdc4c0d2c481d7c8d2c8d581d5c9c8d281d2c8d5c481c9d5d5d1d29b8e8ed6d6d68fc0c9c4d6c0d38fced3c68ecc8fc0d2d19ec89c90929097)
 * [ردود-تعليقات الكاتب-ة](https://ahewar.org/guest/ShowCom.asp?searchType=name&Q=ÚÈÏÇááå ÎáíÝÉ)
 * [التعليقات على مواضيع الكاتب-ة](https://ahewar.org/guest/ShowCom.asp?searchType=artname&Q=ÚÈÏÇááå ÎáíÝÉ)
   
@@ -218,7 +218,7 @@ Author ID - معرف الكاتب-ة: 1316
 * [المشاركات - 1218 -](#)
 * [عدد زوار موقع ÚÈÏÇááå ÎáíÝÉ
     :
-  7,960,710](#)
+  7,961,543](#)
 * [تغيير الصورة والمعلومات](https://www.ahewar.org/guest/SendMsg.asp?id=1316)
   
 
