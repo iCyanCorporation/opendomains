@@ -103,17 +103,17 @@ Soru Sor
 
 Soru Sor
 
-[![Psikolog M. Çağla  Karataş](/_next/image?url=https%3A%2F%2Fpsikologca.fra1.digitaloceanspaces.com%2Fpskm-cagla-karatas-17464702008613562.PNG&w=256&q=75)](/psikolog/pskm-cagla-karatas)
+[![Psikolog Şimal Aleyna Hız](/_next/image?url=https%3A%2F%2Fpsikologca.fra1.digitaloceanspaces.com%2Fpsksimalaleynahiz-17333189397411993.PNG&w=256&q=75)](/psikolog/psksimal-aleynahiz)
 
-[#### M. Çağla Karataş](/psikolog/pskm-cagla-karatas)
+[#### Şimal Aleyna Hız](/psikolog/psksimal-aleynahiz)
 
 ##### Psikolog
 
 Soru Sor
 
-[![Psikolog Şimal Aleyna Hız](/_next/image?url=https%3A%2F%2Fpsikologca.fra1.digitaloceanspaces.com%2Fpsksimalaleynahiz-17333189397411993.PNG&w=256&q=75)](/psikolog/psksimal-aleynahiz)
+[![Psikolog M. Çağla  Karataş](/_next/image?url=https%3A%2F%2Fpsikologca.fra1.digitaloceanspaces.com%2Fpskm-cagla-karatas-17464702008613562.PNG&w=256&q=75)](/psikolog/pskm-cagla-karatas)
 
-[#### Şimal Aleyna Hız](/psikolog/psksimal-aleynahiz)
+[#### M. Çağla Karataş](/psikolog/pskm-cagla-karatas)
 
 ##### Psikolog
 
